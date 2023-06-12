@@ -1,0 +1,4871 @@
+{
+  "xxw7rx1lv": {
+    "id": "xxw7rx1lv",
+    "fileName": "api.ts",
+    "filePath": "../assets/js/api.ts",
+    "dependencies": [
+      "n55qk68ky",
+      "sk2n4kdsa",
+      "1te23rt7u",
+      "eiwzqwcz1",
+      "8sdfr5tyj",
+      "5zqhrcz9u",
+      "pl69b95lc",
+      "t6sp78um8",
+      "0410do7uq"
+    ]
+  },
+  "p22p2bdbs": {
+    "id": "p22p2bdbs",
+    "fileName": "belt_Array.js",
+    "filePath": "../assets/js/blossomJs/belt_Array.js",
+    "dependencies": [
+      "hefyfrbw1",
+      "uvlqp5ayp",
+      "ziuy9nfem",
+      "c4mco0o4q"
+    ]
+  },
+  "f0cw37wq1": {
+    "id": "f0cw37wq1",
+    "fileName": "belt_Id.js",
+    "filePath": "../assets/js/blossomJs/belt_Id.js",
+    "dependencies": [
+      "uvlqp5ayp"
+    ]
+  },
+  "prlwlk8bf": {
+    "id": "prlwlk8bf",
+    "fileName": "belt_Map.js",
+    "filePath": "../assets/js/blossomJs/belt_Map.js",
+    "dependencies": [
+      "uvlqp5ayp",
+      "5nv36nzab"
+    ]
+  },
+  "5nv36nzab": {
+    "id": "5nv36nzab",
+    "fileName": "belt_MapDict.js",
+    "filePath": "../assets/js/blossomJs/belt_MapDict.js",
+    "dependencies": [
+      "uvlqp5ayp",
+      "c4mco0o4q",
+      "nbzudyqja"
+    ]
+  },
+  "1l3idkeij": {
+    "id": "1l3idkeij",
+    "fileName": "belt_SetDict.js",
+    "filePath": "../assets/js/blossomJs/belt_SetDict.js",
+    "dependencies": [
+      "ar2mtcm43"
+    ]
+  },
+  "dh9h0qhk7": {
+    "id": "dh9h0qhk7",
+    "fileName": "belt_SortArray.js",
+    "filePath": "../assets/js/blossomJs/belt_SortArray.js",
+    "dependencies": [
+      "uvlqp5ayp",
+      "p22p2bdbs"
+    ]
+  },
+  "ar2mtcm43": {
+    "id": "ar2mtcm43",
+    "fileName": "belt_internalAVLset.js",
+    "filePath": "../assets/js/blossomJs/belt_internalAVLset.js",
+    "dependencies": [
+      "uvlqp5ayp",
+      "c4mco0o4q",
+      "dh9h0qhk7"
+    ]
+  },
+  "nbzudyqja": {
+    "id": "nbzudyqja",
+    "fileName": "belt_internalAVLtree.js",
+    "filePath": "../assets/js/blossomJs/belt_internalAVLtree.js",
+    "dependencies": [
+      "uvlqp5ayp",
+      "c4mco0o4q",
+      "dh9h0qhk7"
+    ]
+  },
+  "ucf99x6mv": {
+    "id": "ucf99x6mv",
+    "fileName": "blossomJS.d.ts",
+    "filePath": "../assets/js/blossomJs/blossomJS.d.ts",
+    "dependencies": []
+  },
+  "2fazhs1us": {
+    "id": "2fazhs1us",
+    "fileName": "blossomJS.js",
+    "filePath": "../assets/js/blossomJs/blossomJS.js",
+    "dependencies": [
+      "hefyfrbw1",
+      "uvlqp5ayp",
+      "f0cw37wq1",
+      "prlwlk8bf",
+      "4g9hutix3",
+      "kmyhkilrc",
+      "c4mco0o4q",
+      "5nv36nzab",
+      "1l3idkeij"
+    ]
+  },
+  "hefyfrbw1": {
+    "id": "hefyfrbw1",
+    "fileName": "caml.js",
+    "filePath": "../assets/js/blossomJs/caml.js",
+    "dependencies": []
+  },
+  "y4r9ff38g": {
+    "id": "y4r9ff38g",
+    "fileName": "caml_array.js",
+    "filePath": "../assets/js/blossomJs/caml_array.js",
+    "dependencies": []
+  },
+  "zxv1d8kl2": {
+    "id": "zxv1d8kl2",
+    "fileName": "caml_bytes.js",
+    "filePath": "../assets/js/blossomJs/caml_bytes.js",
+    "dependencies": []
+  },
+  "20tx9fkxg": {
+    "id": "20tx9fkxg",
+    "fileName": "caml_exceptions.js",
+    "filePath": "../assets/js/blossomJs/caml_exceptions.js",
+    "dependencies": []
+  },
+  "m8piwmuhi": {
+    "id": "m8piwmuhi",
+    "fileName": "caml_external_polyfill.js",
+    "filePath": "../assets/js/blossomJs/caml_external_polyfill.js",
+    "dependencies": []
+  },
+  "p5yead7na": {
+    "id": "p5yead7na",
+    "fileName": "caml_format.js",
+    "filePath": "../assets/js/blossomJs/caml_format.js",
+    "dependencies": [
+      "hefyfrbw1",
+      "0tk6fw7gb"
+    ]
+  },
+  "0tk6fw7gb": {
+    "id": "0tk6fw7gb",
+    "fileName": "caml_int64.js",
+    "filePath": "../assets/js/blossomJs/caml_int64.js",
+    "dependencies": [
+      "hefyfrbw1"
+    ]
+  },
+  "kvsjjm2k2": {
+    "id": "kvsjjm2k2",
+    "fileName": "caml_io.js",
+    "filePath": "../assets/js/blossomJs/caml_io.js",
+    "dependencies": []
+  },
+  "g8m6br4zk": {
+    "id": "g8m6br4zk",
+    "fileName": "caml_js_exceptions.js",
+    "filePath": "../assets/js/blossomJs/caml_js_exceptions.js",
+    "dependencies": [
+      "c4mco0o4q",
+      "20tx9fkxg"
+    ]
+  },
+  "4g9hutix3": {
+    "id": "4g9hutix3",
+    "fileName": "caml_obj.js",
+    "filePath": "../assets/js/blossomJs/caml_obj.js",
+    "dependencies": [
+      "hefyfrbw1"
+    ]
+  },
+  "c4mco0o4q": {
+    "id": "c4mco0o4q",
+    "fileName": "caml_option.js",
+    "filePath": "../assets/js/blossomJs/caml_option.js",
+    "dependencies": []
+  },
+  "bnms0dmrp": {
+    "id": "bnms0dmrp",
+    "fileName": "caml_string.js",
+    "filePath": "../assets/js/blossomJs/caml_string.js",
+    "dependencies": []
+  },
+  "n2a0keq6q": {
+    "id": "n2a0keq6q",
+    "fileName": "caml_sys.js",
+    "filePath": "../assets/js/blossomJs/caml_sys.js",
+    "dependencies": []
+  },
+  "uvlqp5ayp": {
+    "id": "uvlqp5ayp",
+    "fileName": "curry.js",
+    "filePath": "../assets/js/blossomJs/curry.js",
+    "dependencies": [
+      "y4r9ff38g"
+    ]
+  },
+  "qebwvn4cs": {
+    "id": "qebwvn4cs",
+    "fileName": "js_int.js",
+    "filePath": "../assets/js/blossomJs/js_int.js",
+    "dependencies": []
+  },
+  "ziuy9nfem": {
+    "id": "ziuy9nfem",
+    "fileName": "js_math.js",
+    "filePath": "../assets/js/blossomJs/js_math.js",
+    "dependencies": [
+      "qebwvn4cs"
+    ]
+  },
+  "kmyhkilrc": {
+    "id": "kmyhkilrc",
+    "fileName": "pervasives.js",
+    "filePath": "../assets/js/blossomJs/pervasives.js",
+    "dependencies": [
+      "uvlqp5ayp",
+      "kvsjjm2k2",
+      "n2a0keq6q",
+      "zxv1d8kl2",
+      "p5yead7na",
+      "bnms0dmrp",
+      "20tx9fkxg",
+      "g8m6br4zk",
+      "m8piwmuhi"
+    ]
+  },
+  "n10oym9sp": {
+    "id": "n10oym9sp",
+    "fileName": "wrap.ts",
+    "filePath": "../assets/js/blossomJs/wrap.ts",
+    "dependencies": [
+      "2fazhs1us"
+    ]
+  },
+  "49fwq6o7q": {
+    "id": "49fwq6o7q",
+    "fileName": "category.js",
+    "filePath": "../assets/js/category.js",
+    "dependencies": []
+  },
+  "7fli2849q": {
+    "id": "7fli2849q",
+    "fileName": "install.js",
+    "filePath": "../assets/js/install.js",
+    "dependencies": []
+  },
+  "h19w3u2gq": {
+    "id": "h19w3u2gq",
+    "fileName": "list_functions.ts",
+    "filePath": "../assets/js/list_functions.ts",
+    "dependencies": [
+      "8sdfr5tyj",
+      "nof58w6ke",
+      "pl69b95lc",
+      "sk2n4kdsa",
+      "808xrv9ur",
+      "xxw7rx1lv",
+      "o0af2sr7j",
+      "eiwzqwcz1",
+      "ie0we1xqr",
+      "y3d2n2zgg",
+      "75d0vmjwa",
+      "o58u4dgkz"
+    ]
+  },
+  "hx21xragl": {
+    "id": "hx21xragl",
+    "fileName": "load.ts",
+    "filePath": "../assets/js/load.ts",
+    "dependencies": [
+      "xxw7rx1lv",
+      "d4o30flja",
+      "5zqhrcz9u"
+    ]
+  },
+  "kqjccnd9e": {
+    "id": "kqjccnd9e",
+    "fileName": "old_sync.ts",
+    "filePath": "../assets/js/old_sync.ts",
+    "dependencies": [
+      "8sdfr5tyj",
+      "n55qk68ky",
+      "sk2n4kdsa",
+      "hx21xragl",
+      "808xrv9ur",
+      "5zqhrcz9u"
+    ]
+  },
+  "7f2p5rzul": {
+    "id": "7f2p5rzul",
+    "fileName": "option.js",
+    "filePath": "../assets/js/option.js",
+    "dependencies": []
+  },
+  "3liq2l0r1": {
+    "id": "3liq2l0r1",
+    "fileName": "rpc.d.ts",
+    "filePath": "../assets/js/rpc.d.ts",
+    "dependencies": []
+  },
+  "n55qk68ky": {
+    "id": "n55qk68ky",
+    "fileName": "rpc.js",
+    "filePath": "../assets/js/rpc.js",
+    "dependencies": []
+  },
+  "8sdfr5tyj": {
+    "id": "8sdfr5tyj",
+    "fileName": "save.ts",
+    "filePath": "../assets/js/save.ts",
+    "dependencies": [
+      "sk2n4kdsa",
+      "o58u4dgkz",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "pl69b95lc",
+      "mmoot59gg"
+    ]
+  },
+  "nof58w6ke": {
+    "id": "nof58w6ke",
+    "fileName": "selection.ts",
+    "filePath": "../assets/js/selection.ts",
+    "dependencies": [
+      "hx21xragl",
+      "5zqhrcz9u",
+      "8sdfr5tyj",
+      "d4o30flja",
+      "t6sp78um8"
+    ]
+  },
+  "3wdhwf9r9": {
+    "id": "3wdhwf9r9",
+    "fileName": "spell.ts",
+    "filePath": "../assets/js/spell.ts",
+    "dependencies": [
+      "byor1jisd",
+      "9tjxcedw2"
+    ]
+  },
+  "0t1as9vct": {
+    "id": "0t1as9vct",
+    "fileName": "text_export.js",
+    "filePath": "../assets/js/text_export.js",
+    "dependencies": []
+  },
+  "zq4vk09ba": {
+    "id": "zq4vk09ba",
+    "fileName": "tourny.ts",
+    "filePath": "../assets/js/tourny.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "dzmuzdrjn",
+      "oz1i8h7l5",
+      "b45frrcel",
+      "brw0z4iuj",
+      "n55qk68ky",
+      "8sdfr5tyj",
+      "sk2n4kdsa",
+      "pl69b95lc",
+      "wywodk7lc"
+    ]
+  },
+  "8usqr12v2": {
+    "id": "8usqr12v2",
+    "fileName": "update.ts",
+    "filePath": "../assets/js/update.ts",
+    "dependencies": [
+      "xxw7rx1lv",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "d4o30flja",
+      "pl69b95lc"
+    ]
+  },
+  "doh8lh9dz": {
+    "id": "doh8lh9dz",
+    "fileName": "upgrade.js",
+    "filePath": "../assets/js/upgrade.js",
+    "dependencies": [
+      "7f2p5rzul",
+      "sk2n4kdsa"
+    ]
+  },
+  "75d0vmjwa": {
+    "id": "75d0vmjwa",
+    "fileName": "algo_settings.ts",
+    "filePath": "../assets/shared/army/algo_settings.ts",
+    "dependencies": [
+      "8efx5vgcd",
+      "ie0we1xqr"
+    ]
+  },
+  "hg77amcaj": {
+    "id": "hg77amcaj",
+    "fileName": "bs_association.ts",
+    "filePath": "../assets/shared/battlescribe/bs_association.ts",
+    "dependencies": [
+      "tc4adj26r",
+      "yw8xz5ip3",
+      "t6sp78um8",
+      "gxgdt1x6w",
+      "xumwas7qy",
+      "8efx5vgcd",
+      "yw8xz5ip3",
+      "x2syfusar",
+      "hqlommbv0"
+    ]
+  },
+  "6649csyfv": {
+    "id": "6649csyfv",
+    "fileName": "bs_async_autocheck.ts",
+    "filePath": "../assets/shared/battlescribe/bs_async_autocheck.ts",
+    "dependencies": [
+      "tc4adj26r",
+      "t6sp78um8"
+    ]
+  },
+  "18a8t168g": {
+    "id": "18a8t168g",
+    "fileName": "bs_auto_check.ts",
+    "filePath": "../assets/shared/battlescribe/bs_auto_check.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "nddltppbk",
+      "xumwas7qy",
+      "tc4adj26r",
+      "yw8xz5ip3",
+      "t6sp78um8",
+      "ecl4s7low"
+    ]
+  },
+  "liyn4odyt": {
+    "id": "liyn4odyt",
+    "fileName": "bs_book.ts",
+    "filePath": "../assets/shared/battlescribe/bs_book.ts",
+    "dependencies": [
+      "d4o30flja",
+      "xumwas7qy",
+      "nddltppbk",
+      "g0iht5nky",
+      "zy8u54l0h",
+      "t6sp78um8",
+      "tc4adj26r",
+      "hg77amcaj",
+      "2us3rco3y",
+      "ie0we1xqr"
+    ]
+  },
+  "yw8xz5ip3": {
+    "id": "yw8xz5ip3",
+    "fileName": "bs_condition.ts",
+    "filePath": "../assets/shared/battlescribe/bs_condition.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "tc4adj26r",
+      "njdpdx374"
+    ]
+  },
+  "vutsniwd4": {
+    "id": "vutsniwd4",
+    "fileName": "bs_convert.ts",
+    "filePath": "../assets/shared/battlescribe/bs_convert.ts",
+    "dependencies": [
+      "t6sp78um8",
+      "nddltppbk",
+      "gxgdt1x6w",
+      "xumwas7qy",
+      "zy8u54l0h"
+    ]
+  },
+  "b7vxftuq3": {
+    "id": "b7vxftuq3",
+    "fileName": "bs_editor.ts",
+    "filePath": "../assets/shared/battlescribe/bs_editor.ts",
+    "dependencies": [
+      "nddltppbk",
+      "zy8u54l0h",
+      "x2syfusar",
+      "xumwas7qy",
+      "gxgdt1x6w",
+      "t6sp78um8",
+      "vutsniwd4"
+    ]
+  },
+  "hqlommbv0": {
+    "id": "hqlommbv0",
+    "fileName": "bs_error.ts",
+    "filePath": "../assets/shared/battlescribe/bs_error.ts",
+    "dependencies": [
+      "8efx5vgcd",
+      "tc4adj26r",
+      "xumwas7qy",
+      "p363a0837",
+      "nddltppbk"
+    ]
+  },
+  "o0af2sr7j": {
+    "id": "o0af2sr7j",
+    "fileName": "bs_export_xml.ts",
+    "filePath": "../assets/shared/battlescribe/bs_export_xml.ts",
+    "dependencies": [
+      "tc4adj26r",
+      "zy8u54l0h",
+      "xumwas7qy",
+      "ie0we1xqr",
+      "hg77amcaj"
+    ]
+  },
+  "t6sp78um8": {
+    "id": "t6sp78um8",
+    "fileName": "bs_helpers.ts",
+    "filePath": "../assets/shared/battlescribe/bs_helpers.ts",
+    "dependencies": [
+      "eiwzqwcz1",
+      "nddltppbk",
+      "xumwas7qy"
+    ]
+  },
+  "jcxzq7fbi": {
+    "id": "jcxzq7fbi",
+    "fileName": "bs_import_data.ts",
+    "filePath": "../assets/shared/battlescribe/bs_import_data.ts",
+    "dependencies": []
+  },
+  "gzxyy01xz": {
+    "id": "gzxyy01xz",
+    "fileName": "bs_import_ros.ts",
+    "filePath": "../assets/shared/battlescribe/bs_import_ros.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "5zqhrcz9u",
+      "d4o30flja",
+      "ie0we1xqr",
+      "liyn4odyt",
+      "g0iht5nky",
+      "tc4adj26r"
+    ]
+  },
+  "qmkxn88yc": {
+    "id": "qmkxn88yc",
+    "fileName": "bs_import_server.ts",
+    "filePath": "../assets/shared/battlescribe/bs_import_server.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "t6sp78um8",
+      "5zqhrcz9u",
+      "biccljok4",
+      "liyn4odyt",
+      "z6lxdz3zx",
+      "jcxzq7fbi"
+    ]
+  },
+  "tc4adj26r": {
+    "id": "tc4adj26r",
+    "fileName": "bs_instance.ts",
+    "filePath": "../assets/shared/battlescribe/bs_instance.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "ie0we1xqr",
+      "eiwzqwcz1",
+      "75d0vmjwa",
+      "8efx5vgcd",
+      "liyn4odyt",
+      "yw8xz5ip3",
+      "t6sp78um8",
+      "nddltppbk",
+      "g0iht5nky",
+      "nddltppbk",
+      "gxgdt1x6w",
+      "hg77amcaj",
+      "18a8t168g",
+      "p363a0837",
+      "hqlommbv0",
+      "zy8u54l0h",
+      "h761oevyj",
+      "t6sp78um8",
+      "6649csyfv",
+      "2us3rco3y",
+      "m3vseodfn",
+      "mlegdh5bt",
+      "xufjj91rn",
+      "59m9n6aph"
+    ]
+  },
+  "nddltppbk": {
+    "id": "nddltppbk",
+    "fileName": "bs_main.ts",
+    "filePath": "../assets/shared/battlescribe/bs_main.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "zy8u54l0h",
+      "gxgdt1x6w",
+      "ie0we1xqr",
+      "hg77amcaj",
+      "t6sp78um8",
+      "x2syfusar"
+    ]
+  },
+  "zy8u54l0h": {
+    "id": "zy8u54l0h",
+    "fileName": "bs_main_catalogue.ts",
+    "filePath": "../assets/shared/battlescribe/bs_main_catalogue.ts",
+    "dependencies": [
+      "t6sp78um8",
+      "nddltppbk",
+      "xumwas7qy",
+      "nddltppbk",
+      "liyn4odyt",
+      "d4o30flja",
+      "b7vxftuq3",
+      "gxgdt1x6w"
+    ]
+  },
+  "4ajo5rwef": {
+    "id": "4ajo5rwef",
+    "fileName": "bs_main_types.ts",
+    "filePath": "../assets/shared/battlescribe/bs_main_types.ts",
+    "dependencies": [
+      "nddltppbk",
+      "zy8u54l0h",
+      "t6sp78um8",
+      "b7vxftuq3"
+    ]
+  },
+  "x2syfusar": {
+    "id": "x2syfusar",
+    "fileName": "bs_modifiers.ts",
+    "filePath": "../assets/shared/battlescribe/bs_modifiers.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "nddltppbk",
+      "zy8u54l0h"
+    ]
+  },
+  "g0iht5nky": {
+    "id": "g0iht5nky",
+    "fileName": "bs_selector.ts",
+    "filePath": "../assets/shared/battlescribe/bs_selector.ts",
+    "dependencies": [
+      "eiwzqwcz1",
+      "xumwas7qy",
+      "liyn4odyt",
+      "tc4adj26r",
+      "nddltppbk",
+      "zy8u54l0h",
+      "gxgdt1x6w",
+      "18a8t168g",
+      "2us3rco3y"
+    ]
+  },
+  "gxgdt1x6w": {
+    "id": "gxgdt1x6w",
+    "fileName": "bs_system.ts",
+    "filePath": "../assets/shared/battlescribe/bs_system.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "zy8u54l0h",
+      "d4o30flja",
+      "liyn4odyt",
+      "hg77amcaj",
+      "tc4adj26r",
+      "4ajo5rwef",
+      "t6sp78um8",
+      "nddltppbk",
+      "2us3rco3y"
+    ]
+  },
+  "xumwas7qy": {
+    "id": "xumwas7qy",
+    "fileName": "bs_types.ts",
+    "filePath": "../assets/shared/battlescribe/bs_types.ts",
+    "dependencies": [
+      "nddltppbk",
+      "zy8u54l0h"
+    ]
+  },
+  "2us3rco3y": {
+    "id": "2us3rco3y",
+    "fileName": "bs_versioning.ts",
+    "filePath": "../assets/shared/battlescribe/bs_versioning.ts",
+    "dependencies": []
+  },
+  "biccljok4": {
+    "id": "biccljok4",
+    "fileName": "bs_versioning_server.ts",
+    "filePath": "../assets/shared/battlescribe/bs_versioning_server.ts",
+    "dependencies": []
+  },
+  "z6lxdz3zx": {
+    "id": "z6lxdz3zx",
+    "fileName": "bs_xml.ts",
+    "filePath": "../assets/shared/battlescribe/bs_xml.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "liyn4odyt",
+      "t6sp78um8"
+    ]
+  },
+  "m3vseodfn": {
+    "id": "m3vseodfn",
+    "fileName": "aos_warscroll_formatter.ts",
+    "filePath": "../assets/shared/battlescribe/export/aos_warscroll_formatter.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "hg77amcaj",
+      "t6sp78um8",
+      "tc4adj26r",
+      "eiwzqwcz1"
+    ]
+  },
+  "xufjj91rn": {
+    "id": "xufjj91rn",
+    "fileName": "default_formatter.ts",
+    "filePath": "../assets/shared/battlescribe/export/default_formatter.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "t6sp78um8",
+      "tc4adj26r"
+    ]
+  },
+  "bnh70fapl": {
+    "id": "bnh70fapl",
+    "fileName": "warhammer_formatter_common.ts",
+    "filePath": "../assets/shared/battlescribe/export/warhammer_formatter_common.ts",
+    "dependencies": [
+      "tc4adj26r",
+      "t6sp78um8",
+      "t6sp78um8",
+      "ug1trflpc"
+    ]
+  },
+  "mlegdh5bt": {
+    "id": "mlegdh5bt",
+    "fileName": "warhammer_formatter_feq.ts",
+    "filePath": "../assets/shared/battlescribe/export/warhammer_formatter_feq.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "t6sp78um8",
+      "t6sp78um8",
+      "xufjj91rn",
+      "ug1trflpc",
+      "bnh70fapl",
+      "tc4adj26r"
+    ]
+  },
+  "ug1trflpc": {
+    "id": "ug1trflpc",
+    "fileName": "warhammer_formatter_helpers.ts",
+    "filePath": "../assets/shared/battlescribe/export/warhammer_formatter_helpers.ts",
+    "dependencies": [
+      "tc4adj26r"
+    ]
+  },
+  "59m9n6aph": {
+    "id": "59m9n6aph",
+    "fileName": "warhammer_formatter_wtc.ts",
+    "filePath": "../assets/shared/battlescribe/export/warhammer_formatter_wtc.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "tc4adj26r",
+      "t6sp78um8",
+      "t6sp78um8",
+      "xufjj91rn",
+      "ug1trflpc",
+      "bnh70fapl"
+    ]
+  },
+  "9amohklzy": {
+    "id": "9amohklzy",
+    "fileName": "reactive_helpers.ts",
+    "filePath": "../assets/shared/battlescribe/reactive/reactive_helpers.ts",
+    "dependencies": [
+      "h761oevyj",
+      "ecl4s7low",
+      "kfju2ujs5"
+    ]
+  },
+  "h761oevyj": {
+    "id": "h761oevyj",
+    "fileName": "reactive_info.ts",
+    "filePath": "../assets/shared/battlescribe/reactive/reactive_info.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "9amohklzy",
+      "ecl4s7low",
+      "kfju2ujs5"
+    ]
+  },
+  "ecl4s7low": {
+    "id": "ecl4s7low",
+    "fileName": "reactive_modifiers.ts",
+    "filePath": "../assets/shared/battlescribe/reactive/reactive_modifiers.ts",
+    "dependencies": [
+      "yw8xz5ip3",
+      "yw8xz5ip3",
+      "nddltppbk",
+      "xumwas7qy",
+      "9amohklzy",
+      "kfju2ujs5"
+    ]
+  },
+  "njdpdx374": {
+    "id": "njdpdx374",
+    "fileName": "reactive_scope.ts",
+    "filePath": "../assets/shared/battlescribe/reactive/reactive_scope.ts",
+    "dependencies": [
+      "p363a0837",
+      "eiwzqwcz1",
+      "t6sp78um8"
+    ]
+  },
+  "p363a0837": {
+    "id": "p363a0837",
+    "fileName": "reactive_state.ts",
+    "filePath": "../assets/shared/battlescribe/reactive/reactive_state.ts",
+    "dependencies": [
+      "t6sp78um8",
+      "nddltppbk",
+      "xumwas7qy",
+      "h761oevyj",
+      "ecl4s7low",
+      "njdpdx374",
+      "kfju2ujs5",
+      "x2syfusar"
+    ]
+  },
+  "kfju2ujs5": {
+    "id": "kfju2ujs5",
+    "fileName": "reactive_types.ts",
+    "filePath": "../assets/shared/battlescribe/reactive/reactive_types.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "h761oevyj",
+      "ecl4s7low"
+    ]
+  },
+  "0mvyhinms": {
+    "id": "0mvyhinms",
+    "fileName": "belt_Array.js",
+    "filePath": "../assets/shared/blossomJs/belt_Array.js",
+    "dependencies": [
+      "8rqo8r2jn",
+      "fkrtvxfab",
+      "teag5tmyd",
+      "duzawxa2a"
+    ]
+  },
+  "a5vcrz2u0": {
+    "id": "a5vcrz2u0",
+    "fileName": "belt_Id.js",
+    "filePath": "../assets/shared/blossomJs/belt_Id.js",
+    "dependencies": [
+      "fkrtvxfab"
+    ]
+  },
+  "hbwqmobti": {
+    "id": "hbwqmobti",
+    "fileName": "belt_Map.js",
+    "filePath": "../assets/shared/blossomJs/belt_Map.js",
+    "dependencies": [
+      "fkrtvxfab",
+      "lubi47lc7"
+    ]
+  },
+  "lubi47lc7": {
+    "id": "lubi47lc7",
+    "fileName": "belt_MapDict.js",
+    "filePath": "../assets/shared/blossomJs/belt_MapDict.js",
+    "dependencies": [
+      "fkrtvxfab",
+      "duzawxa2a",
+      "6d6cpomz5"
+    ]
+  },
+  "q2hnhjvnb": {
+    "id": "q2hnhjvnb",
+    "fileName": "belt_SetDict.js",
+    "filePath": "../assets/shared/blossomJs/belt_SetDict.js",
+    "dependencies": [
+      "u4nbgxwqx"
+    ]
+  },
+  "dt2tn66v5": {
+    "id": "dt2tn66v5",
+    "fileName": "belt_SortArray.js",
+    "filePath": "../assets/shared/blossomJs/belt_SortArray.js",
+    "dependencies": [
+      "fkrtvxfab",
+      "0mvyhinms"
+    ]
+  },
+  "u4nbgxwqx": {
+    "id": "u4nbgxwqx",
+    "fileName": "belt_internalAVLset.js",
+    "filePath": "../assets/shared/blossomJs/belt_internalAVLset.js",
+    "dependencies": [
+      "fkrtvxfab",
+      "duzawxa2a",
+      "dt2tn66v5"
+    ]
+  },
+  "6d6cpomz5": {
+    "id": "6d6cpomz5",
+    "fileName": "belt_internalAVLtree.js",
+    "filePath": "../assets/shared/blossomJs/belt_internalAVLtree.js",
+    "dependencies": [
+      "fkrtvxfab",
+      "duzawxa2a",
+      "dt2tn66v5"
+    ]
+  },
+  "17ukop87f": {
+    "id": "17ukop87f",
+    "fileName": "blossomJS.d.ts",
+    "filePath": "../assets/shared/blossomJs/blossomJS.d.ts",
+    "dependencies": []
+  },
+  "mx08fvj8n": {
+    "id": "mx08fvj8n",
+    "fileName": "blossomJS.js",
+    "filePath": "../assets/shared/blossomJs/blossomJS.js",
+    "dependencies": [
+      "8rqo8r2jn",
+      "fkrtvxfab",
+      "a5vcrz2u0",
+      "hbwqmobti",
+      "y686mvtr8",
+      "9oppjbv0f",
+      "duzawxa2a",
+      "lubi47lc7",
+      "q2hnhjvnb"
+    ]
+  },
+  "8rqo8r2jn": {
+    "id": "8rqo8r2jn",
+    "fileName": "caml.js",
+    "filePath": "../assets/shared/blossomJs/caml.js",
+    "dependencies": []
+  },
+  "d0ybmrsn1": {
+    "id": "d0ybmrsn1",
+    "fileName": "caml_array.js",
+    "filePath": "../assets/shared/blossomJs/caml_array.js",
+    "dependencies": []
+  },
+  "ujfo80ijh": {
+    "id": "ujfo80ijh",
+    "fileName": "caml_bytes.js",
+    "filePath": "../assets/shared/blossomJs/caml_bytes.js",
+    "dependencies": []
+  },
+  "y21btr1k9": {
+    "id": "y21btr1k9",
+    "fileName": "caml_exceptions.js",
+    "filePath": "../assets/shared/blossomJs/caml_exceptions.js",
+    "dependencies": []
+  },
+  "gqlbp4xua": {
+    "id": "gqlbp4xua",
+    "fileName": "caml_external_polyfill.js",
+    "filePath": "../assets/shared/blossomJs/caml_external_polyfill.js",
+    "dependencies": []
+  },
+  "bj56zv6t8": {
+    "id": "bj56zv6t8",
+    "fileName": "caml_format.js",
+    "filePath": "../assets/shared/blossomJs/caml_format.js",
+    "dependencies": [
+      "8rqo8r2jn",
+      "mnw6pvk6y"
+    ]
+  },
+  "mnw6pvk6y": {
+    "id": "mnw6pvk6y",
+    "fileName": "caml_int64.js",
+    "filePath": "../assets/shared/blossomJs/caml_int64.js",
+    "dependencies": [
+      "8rqo8r2jn"
+    ]
+  },
+  "72dwztey1": {
+    "id": "72dwztey1",
+    "fileName": "caml_io.js",
+    "filePath": "../assets/shared/blossomJs/caml_io.js",
+    "dependencies": []
+  },
+  "4sscpg7qa": {
+    "id": "4sscpg7qa",
+    "fileName": "caml_js_exceptions.js",
+    "filePath": "../assets/shared/blossomJs/caml_js_exceptions.js",
+    "dependencies": [
+      "duzawxa2a",
+      "y21btr1k9"
+    ]
+  },
+  "y686mvtr8": {
+    "id": "y686mvtr8",
+    "fileName": "caml_obj.js",
+    "filePath": "../assets/shared/blossomJs/caml_obj.js",
+    "dependencies": [
+      "8rqo8r2jn"
+    ]
+  },
+  "duzawxa2a": {
+    "id": "duzawxa2a",
+    "fileName": "caml_option.js",
+    "filePath": "../assets/shared/blossomJs/caml_option.js",
+    "dependencies": []
+  },
+  "wbdbtllgc": {
+    "id": "wbdbtllgc",
+    "fileName": "caml_string.js",
+    "filePath": "../assets/shared/blossomJs/caml_string.js",
+    "dependencies": []
+  },
+  "ha3ocbyv9": {
+    "id": "ha3ocbyv9",
+    "fileName": "caml_sys.js",
+    "filePath": "../assets/shared/blossomJs/caml_sys.js",
+    "dependencies": []
+  },
+  "fkrtvxfab": {
+    "id": "fkrtvxfab",
+    "fileName": "curry.js",
+    "filePath": "../assets/shared/blossomJs/curry.js",
+    "dependencies": [
+      "d0ybmrsn1"
+    ]
+  },
+  "ltc5v1nio": {
+    "id": "ltc5v1nio",
+    "fileName": "js_int.js",
+    "filePath": "../assets/shared/blossomJs/js_int.js",
+    "dependencies": []
+  },
+  "teag5tmyd": {
+    "id": "teag5tmyd",
+    "fileName": "js_math.js",
+    "filePath": "../assets/shared/blossomJs/js_math.js",
+    "dependencies": [
+      "ltc5v1nio"
+    ]
+  },
+  "9oppjbv0f": {
+    "id": "9oppjbv0f",
+    "fileName": "pervasives.js",
+    "filePath": "../assets/shared/blossomJs/pervasives.js",
+    "dependencies": [
+      "fkrtvxfab",
+      "72dwztey1",
+      "ha3ocbyv9",
+      "ujfo80ijh",
+      "bj56zv6t8",
+      "wbdbtllgc",
+      "y21btr1k9",
+      "4sscpg7qa",
+      "gqlbp4xua"
+    ]
+  },
+  "4my1kjku5": {
+    "id": "4my1kjku5",
+    "fileName": "wrap.ts",
+    "filePath": "../assets/shared/blossomJs/wrap.ts",
+    "dependencies": [
+      "mx08fvj8n"
+    ]
+  },
+  "8efx5vgcd": {
+    "id": "8efx5vgcd",
+    "fileName": "error_manager.ts",
+    "filePath": "../assets/shared/error_manager.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "xumwas7qy"
+    ]
+  },
+  "sk2n4kdsa": {
+    "id": "sk2n4kdsa",
+    "fileName": "util.js",
+    "filePath": "../assets/shared/js/util.js",
+    "dependencies": []
+  },
+  "8b55fawsn": {
+    "id": "8b55fawsn",
+    "fileName": "figurines.ts",
+    "filePath": "../assets/shared/roster/figurines.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "t6sp78um8",
+      "4my1kjku5"
+    ]
+  },
+  "ie0we1xqr": {
+    "id": "ie0we1xqr",
+    "fileName": "army_interfaces.ts",
+    "filePath": "../assets/shared/systems/army_interfaces.ts",
+    "dependencies": [
+      "8efx5vgcd",
+      "d4o30flja",
+      "eiwzqwcz1",
+      "75d0vmjwa",
+      "t6sp78um8",
+      "2us3rco3y",
+      "hg77amcaj"
+    ]
+  },
+  "horn4urrg": {
+    "id": "horn4urrg",
+    "fileName": "bs_game_system.ts",
+    "filePath": "../assets/shared/systems/bs_game_system.ts",
+    "dependencies": [
+      "eiwzqwcz1",
+      "gxgdt1x6w",
+      "t6sp78um8",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "liyn4odyt",
+      "2us3rco3y",
+      "a1i0rclz1"
+    ]
+  },
+  "a1i0rclz1": {
+    "id": "a1i0rclz1",
+    "fileName": "system_scores.ts",
+    "filePath": "../assets/shared/systems/system_scores.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "ie0we1xqr",
+      "d4o30flja",
+      "eiwzqwcz1",
+      "horn4urrg"
+    ]
+  },
+  "5zqhrcz9u": {
+    "id": "5zqhrcz9u",
+    "fileName": "db_types.ts",
+    "filePath": "../assets/shared/types/db_types.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "t6sp78um8",
+      "xumwas7qy",
+      "2us3rco3y",
+      "mmoot59gg",
+      "horn4urrg"
+    ]
+  },
+  "mmoot59gg": {
+    "id": "mmoot59gg",
+    "fileName": "stateOptions.ts",
+    "filePath": "../assets/shared/types/stateOptions.ts",
+    "dependencies": [
+      "my9qyysxe",
+      "8b55fawsn"
+    ]
+  },
+  "eiwzqwcz1": {
+    "id": "eiwzqwcz1",
+    "fileName": "util.ts",
+    "filePath": "../assets/shared/util.ts",
+    "dependencies": []
+  },
+  "fc26huqni": {
+    "id": "fc26huqni",
+    "fileName": "army_book.ts",
+    "filePath": "../assets/ts/army/army_book.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "d4o30flja",
+      "cujos4jy7",
+      "2us3rco3y",
+      "5zqhrcz9u",
+      "4unl34t7c",
+      "rckr69s24",
+      "7f2p5rzul",
+      "jjfkmvcyu",
+      "eiwzqwcz1"
+    ]
+  },
+  "cujos4jy7": {
+    "id": "cujos4jy7",
+    "fileName": "army_book_interfaces.ts",
+    "filePath": "../assets/ts/army/army_book_interfaces.ts",
+    "dependencies": [
+      "t2pezpil5",
+      "ie0we1xqr"
+    ]
+  },
+  "rckr69s24": {
+    "id": "rckr69s24",
+    "fileName": "army_list_army.ts",
+    "filePath": "../assets/ts/army/army_list_army.ts",
+    "dependencies": [
+      "uu1w5uced",
+      "jdko8qwlq",
+      "75d0vmjwa",
+      "fc26huqni",
+      "cujos4jy7",
+      "ie0we1xqr",
+      "1u83bgo97",
+      "jxp64stpg",
+      "jjfkmvcyu",
+      "hgcwtlj7p",
+      "8efx5vgcd",
+      "eiwzqwcz1"
+    ]
+  },
+  "1u83bgo97": {
+    "id": "1u83bgo97",
+    "fileName": "army_list_category.ts",
+    "filePath": "../assets/ts/army/army_list_category.ts",
+    "dependencies": [
+      "fc26huqni",
+      "rckr69s24",
+      "jjfkmvcyu",
+      "hgcwtlj7p",
+      "75d0vmjwa",
+      "ie0we1xqr",
+      "cujos4jy7"
+    ]
+  },
+  "jxp64stpg": {
+    "id": "jxp64stpg",
+    "fileName": "army_list_force.ts",
+    "filePath": "../assets/ts/army/army_list_force.ts",
+    "dependencies": [
+      "75d0vmjwa",
+      "fc26huqni",
+      "cujos4jy7",
+      "ie0we1xqr",
+      "rckr69s24",
+      "1u83bgo97",
+      "jjfkmvcyu",
+      "hgcwtlj7p"
+    ]
+  },
+  "jjfkmvcyu": {
+    "id": "jjfkmvcyu",
+    "fileName": "army_list_node.ts",
+    "filePath": "../assets/ts/army/army_list_node.ts",
+    "dependencies": [
+      "fc26huqni",
+      "rckr69s24",
+      "hgcwtlj7p",
+      "1u83bgo97",
+      "dfgnk5s1w",
+      "4unl34t7c",
+      "t2pezpil5",
+      "ie0we1xqr",
+      "75d0vmjwa",
+      "cujos4jy7",
+      "4xznyftys",
+      "d4o30flja",
+      "jdko8qwlq",
+      "eiwzqwcz1",
+      "8efx5vgcd"
+    ]
+  },
+  "dfgnk5s1w": {
+    "id": "dfgnk5s1w",
+    "fileName": "army_list_option.ts",
+    "filePath": "../assets/ts/army/army_list_option.ts",
+    "dependencies": [
+      "hgcwtlj7p",
+      "jjfkmvcyu",
+      "4unl34t7c",
+      "t2pezpil5",
+      "ie0we1xqr",
+      "jdko8qwlq",
+      "d4o30flja",
+      "eiwzqwcz1"
+    ]
+  },
+  "hgcwtlj7p": {
+    "id": "hgcwtlj7p",
+    "fileName": "army_list_unit.ts",
+    "filePath": "../assets/ts/army/army_list_unit.ts",
+    "dependencies": [
+      "jjfkmvcyu",
+      "dfgnk5s1w",
+      "1u83bgo97",
+      "4unl34t7c",
+      "4xznyftys",
+      "mhgsc8tbu",
+      "fc26huqni",
+      "75d0vmjwa",
+      "ie0we1xqr",
+      "cujos4jy7",
+      "d4o30flja",
+      "eiwzqwcz1",
+      "8efx5vgcd"
+    ]
+  },
+  "omc0hllg3": {
+    "id": "omc0hllg3",
+    "fileName": "list_import.ts",
+    "filePath": "../assets/ts/army/list_import.ts",
+    "dependencies": [
+      "rckr69s24",
+      "d4o30flja",
+      "fc26huqni",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "wywodk7lc",
+      "eiwzqwcz1"
+    ]
+  },
+  "4unl34t7c": {
+    "id": "4unl34t7c",
+    "fileName": "option_tree.ts",
+    "filePath": "../assets/ts/army/option_tree.ts",
+    "dependencies": [
+      "eiwzqwcz1"
+    ]
+  },
+  "u5kutpy07": {
+    "id": "u5kutpy07",
+    "fileName": "bs_import_ros_vue.ts",
+    "filePath": "../assets/ts/battlescribe/ui/bs_import_ros_vue.ts",
+    "dependencies": [
+      "z6lxdz3zx",
+      "d4o30flja",
+      "nof58w6ke",
+      "gzxyy01xz",
+      "tc4adj26r",
+      "h19w3u2gq",
+      "p03igm8wb",
+      "wywodk7lc"
+    ]
+  },
+  "my9qyysxe": {
+    "id": "my9qyysxe",
+    "fileName": "bs_preset.ts",
+    "filePath": "../assets/ts/battlescribe/ui/bs_preset.ts",
+    "dependencies": [
+      "tc4adj26r"
+    ]
+  },
+  "0410do7uq": {
+    "id": "0410do7uq",
+    "fileName": "client_util.ts",
+    "filePath": "../assets/ts/client_util.ts",
+    "dependencies": [
+      "brw0z4iuj",
+      "5b5pfyddk",
+      "nq61n6rlm"
+    ]
+  },
+  "0yaontkgy": {
+    "id": "0yaontkgy",
+    "fileName": "combat_simulator.ts",
+    "filePath": "../assets/ts/combat/combat_simulator.ts",
+    "dependencies": [
+      "mhgsc8tbu",
+      "mhgsc8tbu"
+    ]
+  },
+  "mhgsc8tbu": {
+    "id": "mhgsc8tbu",
+    "fileName": "combat_unit.ts",
+    "filePath": "../assets/ts/combat/combat_unit.ts",
+    "dependencies": [
+      "hgcwtlj7p",
+      "t2pezpil5",
+      "8oltqceky",
+      "4uz9pwfj9",
+      "4xznyftys"
+    ]
+  },
+  "4uz9pwfj9": {
+    "id": "4uz9pwfj9",
+    "fileName": "combat_util.ts",
+    "filePath": "../assets/ts/combat/combat_util.ts",
+    "dependencies": [
+      "t2pezpil5",
+      "8oltqceky",
+      "eiwzqwcz1"
+    ]
+  },
+  "pl69b95lc": {
+    "id": "pl69b95lc",
+    "fileName": "dexie.ts",
+    "filePath": "../assets/ts/dexie.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "5zqhrcz9u",
+      "pl69b95lc"
+    ]
+  },
+  "867x7e57x": {
+    "id": "867x7e57x",
+    "fileName": "game.ts",
+    "filePath": "../assets/ts/game/game.ts",
+    "dependencies": [
+      "5b5pfyddk",
+      "brw0z4iuj",
+      "byor1jisd",
+      "byor1jisd",
+      "oz1i8h7l5",
+      "d4o30flja",
+      "ie0we1xqr",
+      "rckr69s24"
+    ]
+  },
+  "347cby29g": {
+    "id": "347cby29g",
+    "fileName": "path.ts",
+    "filePath": "../assets/ts/game/path.ts",
+    "dependencies": [
+      "cujos4jy7",
+      "ns8zzk7k6"
+    ]
+  },
+  "byor1jisd": {
+    "id": "byor1jisd",
+    "fileName": "player.ts",
+    "filePath": "../assets/ts/game/player.ts",
+    "dependencies": [
+      "rckr69s24",
+      "d4o30flja",
+      "fc26huqni",
+      "9tjxcedw2",
+      "9tjxcedw2",
+      "hgcwtlj7p",
+      "5zqhrcz9u",
+      "wywodk7lc"
+    ]
+  },
+  "ns8zzk7k6": {
+    "id": "ns8zzk7k6",
+    "fileName": "spell.ts",
+    "filePath": "../assets/ts/game/spell.ts",
+    "dependencies": [
+      "347cby29g",
+      "jdko8qwlq",
+      "cujos4jy7"
+    ]
+  },
+  "9tjxcedw2": {
+    "id": "9tjxcedw2",
+    "fileName": "wizard.ts",
+    "filePath": "../assets/ts/game/wizard.ts",
+    "dependencies": [
+      "hgcwtlj7p",
+      "ns8zzk7k6",
+      "347cby29g",
+      "rckr69s24",
+      "jdko8qwlq",
+      "cujos4jy7",
+      "eiwzqwcz1"
+    ]
+  },
+  "qnm5k6pkd": {
+    "id": "qnm5k6pkd",
+    "fileName": "unit_sprite.ts",
+    "filePath": "../assets/ts/graphics/unit_sprite.ts",
+    "dependencies": [
+      "mhgsc8tbu"
+    ]
+  },
+  "opkcrs4xo": {
+    "id": "opkcrs4xo",
+    "fileName": "league.ts",
+    "filePath": "../assets/ts/league/league.ts",
+    "dependencies": [
+      "zq4vk09ba",
+      "d4o30flja"
+    ]
+  },
+  "808xrv9ur": {
+    "id": "808xrv9ur",
+    "fileName": "data_tree.ts",
+    "filePath": "../assets/ts/library/data_tree.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "d4o30flja",
+      "eiwzqwcz1"
+    ]
+  },
+  "1te23rt7u": {
+    "id": "1te23rt7u",
+    "fileName": "library.ts",
+    "filePath": "../assets/ts/library/library.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "d4o30flja",
+      "horn4urrg",
+      "eiwzqwcz1"
+    ]
+  },
+  "0ad6ztvmh": {
+    "id": "0ad6ztvmh",
+    "fileName": "vue.ts",
+    "filePath": "../assets/ts/library/vue.ts",
+    "dependencies": [
+      "0ad6ztvmh"
+    ]
+  },
+  "uu1w5uced": {
+    "id": "uu1w5uced",
+    "fileName": "list_upgrade.ts",
+    "filePath": "../assets/ts/list_upgrade.ts",
+    "dependencies": [
+      "4unl34t7c",
+      "fc26huqni",
+      "8efx5vgcd"
+    ]
+  },
+  "wywodk7lc": {
+    "id": "wywodk7lc",
+    "fileName": "listrow_util.ts",
+    "filePath": "../assets/ts/listdb/listrow_util.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "2us3rco3y"
+    ]
+  },
+  "o58u4dgkz": {
+    "id": "o58u4dgkz",
+    "fileName": "sync.ts",
+    "filePath": "../assets/ts/listdb/sync.ts",
+    "dependencies": [
+      "8sdfr5tyj",
+      "n55qk68ky",
+      "hx21xragl",
+      "808xrv9ur",
+      "5zqhrcz9u",
+      "pl69b95lc"
+    ]
+  },
+  "p6vjzw1fb": {
+    "id": "p6vjzw1fb",
+    "fileName": "load.ts",
+    "filePath": "../assets/ts/load.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "5zqhrcz9u",
+      "n55qk68ky",
+      "pl69b95lc"
+    ]
+  },
+  "qo688oo0r": {
+    "id": "qo688oo0r",
+    "fileName": "estimation.ts",
+    "filePath": "../assets/ts/pairings_opti/estimation.ts",
+    "dependencies": [
+      "g0ivf64zv",
+      "45u5l39qk",
+      "3eeglx69r"
+    ]
+  },
+  "g0ivf64zv": {
+    "id": "g0ivf64zv",
+    "fileName": "node.ts",
+    "filePath": "../assets/ts/pairings_opti/node.ts",
+    "dependencies": [
+      "45u5l39qk"
+    ]
+  },
+  "45u5l39qk": {
+    "id": "45u5l39qk",
+    "fileName": "state.ts",
+    "filePath": "../assets/ts/pairings_opti/state.ts",
+    "dependencies": []
+  },
+  "3eeglx69r": {
+    "id": "3eeglx69r",
+    "fileName": "team.ts",
+    "filePath": "../assets/ts/pairings_opti/team.ts",
+    "dependencies": []
+  },
+  "ecjfbgss5": {
+    "id": "ecjfbgss5",
+    "fileName": "tourny_estimations.ts",
+    "filePath": "../assets/ts/pairings_opti/tourny_estimations.ts",
+    "dependencies": [
+      "qo688oo0r",
+      "3eeglx69r"
+    ]
+  },
+  "85pqs9ag8": {
+    "id": "85pqs9ag8",
+    "fileName": "army_export_pdf.ts",
+    "filePath": "../assets/ts/pdf/army_export_pdf.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "y3d2n2zgg",
+      "4xznyftys",
+      "t2pezpil5",
+      "8oltqceky",
+      "rckr69s24",
+      "hgcwtlj7p",
+      "9tjxcedw2",
+      "eiwzqwcz1"
+    ]
+  },
+  "2g6858en4": {
+    "id": "2g6858en4",
+    "fileName": "bs_export_pdf.ts",
+    "filePath": "../assets/ts/pdf/bs_export_pdf.ts",
+    "dependencies": [
+      "tc4adj26r",
+      "5zqhrcz9u",
+      "xumwas7qy",
+      "y3d2n2zgg",
+      "t6sp78um8",
+      "xufjj91rn"
+    ]
+  },
+  "y3d2n2zgg": {
+    "id": "y3d2n2zgg",
+    "fileName": "export_pdf.ts",
+    "filePath": "../assets/ts/pdf/export_pdf.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "2g6858en4",
+      "85pqs9ag8",
+      "rckr69s24",
+      "tc4adj26r",
+      "ie0we1xqr"
+    ]
+  },
+  "4ik15yteg": {
+    "id": "4ik15yteg",
+    "fileName": "spells_export_pdf.ts",
+    "filePath": "../assets/ts/pdf/spells_export_pdf.ts",
+    "dependencies": []
+  },
+  "q4uo5jtuj": {
+    "id": "q4uo5jtuj",
+    "fileName": "ladder.ts",
+    "filePath": "../assets/ts/profile/ladder.ts",
+    "dependencies": [
+      "5zqhrcz9u"
+    ]
+  },
+  "2e8g5pi69": {
+    "id": "2e8g5pi69",
+    "fileName": "player_stats.ts",
+    "filePath": "../assets/ts/profile/player_stats.ts",
+    "dependencies": [
+      "d4o30flja",
+      "5zqhrcz9u",
+      "3eft572ib"
+    ]
+  },
+  "tmm6ecjqx": {
+    "id": "tmm6ecjqx",
+    "fileName": "profile.ts",
+    "filePath": "../assets/ts/profile/profile.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "ie0we1xqr"
+    ]
+  },
+  "3eft572ib": {
+    "id": "3eft572ib",
+    "fileName": "report.ts",
+    "filePath": "../assets/ts/profile/report.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "5b5pfyddk",
+      "oz1i8h7l5",
+      "eiwzqwcz1",
+      "a1i0rclz1",
+      "n55qk68ky",
+      "d4o30flja",
+      "ie0we1xqr",
+      "867x7e57x",
+      "horn4urrg"
+    ]
+  },
+  "4xznyftys": {
+    "id": "4xznyftys",
+    "fileName": "profile.ts",
+    "filePath": "../assets/ts/rule/profile.ts",
+    "dependencies": [
+      "8oltqceky",
+      "8oltqceky",
+      "t2pezpil5",
+      "hgcwtlj7p",
+      "mhgsc8tbu",
+      "dfgnk5s1w",
+      "4uz9pwfj9",
+      "jjfkmvcyu",
+      "eiwzqwcz1",
+      "d4o30flja"
+    ]
+  },
+  "t2pezpil5": {
+    "id": "t2pezpil5",
+    "fileName": "rule.ts",
+    "filePath": "../assets/ts/rule/rule.ts",
+    "dependencies": [
+      "jjfkmvcyu",
+      "dfgnk5s1w",
+      "mhgsc8tbu",
+      "4xznyftys",
+      "8oltqceky",
+      "d4o30flja",
+      "eiwzqwcz1"
+    ]
+  },
+  "42u70ygdy": {
+    "id": "42u70ygdy",
+    "fileName": "ruleparam.ts",
+    "filePath": "../assets/ts/rule/ruleparam.ts",
+    "dependencies": [
+      "t2pezpil5",
+      "8oltqceky"
+    ]
+  },
+  "8oltqceky": {
+    "id": "8oltqceky",
+    "fileName": "statline.ts",
+    "filePath": "../assets/ts/rule/statline.ts",
+    "dependencies": [
+      "t2pezpil5",
+      "mhgsc8tbu",
+      "4xznyftys",
+      "4uz9pwfj9"
+    ]
+  },
+  "d4o30flja": {
+    "id": "d4o30flja",
+    "fileName": "game_system.ts",
+    "filePath": "../assets/ts/systems/game_system.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "ie0we1xqr",
+      "liyn4odyt",
+      "gxgdt1x6w",
+      "2us3rco3y",
+      "horn4urrg",
+      "t2pezpil5",
+      "9tjxcedw2",
+      "ns8zzk7k6",
+      "347cby29g",
+      "fc26huqni"
+    ]
+  },
+  "p03igm8wb": {
+    "id": "p03igm8wb",
+    "fileName": "installed.ts",
+    "filePath": "../assets/ts/systems/installed.ts",
+    "dependencies": [
+      "8sdfr5tyj",
+      "n55qk68ky"
+    ]
+  },
+  "c4f69x33a": {
+    "id": "c4f69x33a",
+    "fileName": "csv_import.ts",
+    "filePath": "../assets/ts/tourny/csv_import.ts",
+    "dependencies": []
+  },
+  "90o0i80pf": {
+    "id": "90o0i80pf",
+    "fileName": "direct_round.ts",
+    "filePath": "../assets/ts/tourny/direct_round.ts",
+    "dependencies": [
+      "dzmuzdrjn",
+      "qypqzk7n5",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "eiwzqwcz1",
+      "eiwzqwcz1"
+    ]
+  },
+  "5c10xmm9f": {
+    "id": "5c10xmm9f",
+    "fileName": "export.ts",
+    "filePath": "../assets/ts/tourny/export.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "ie0we1xqr",
+      "eiwzqwcz1"
+    ]
+  },
+  "dzmuzdrjn": {
+    "id": "dzmuzdrjn",
+    "fileName": "generic_participant.ts",
+    "filePath": "../assets/ts/tourny/generic_participant.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "brw0z4iuj"
+    ]
+  },
+  "sxwfhgfz3": {
+    "id": "sxwfhgfz3",
+    "fileName": "group.ts",
+    "filePath": "../assets/ts/tourny/group.ts",
+    "dependencies": [
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "eiwzqwcz1"
+    ]
+  },
+  "y82itpg7g": {
+    "id": "y82itpg7g",
+    "fileName": "group_round.ts",
+    "filePath": "../assets/ts/tourny/group_round.ts",
+    "dependencies": [
+      "sxwfhgfz3",
+      "qypqzk7n5",
+      "brw0z4iuj"
+    ]
+  },
+  "5b5pfyddk": {
+    "id": "5b5pfyddk",
+    "fileName": "match.ts",
+    "filePath": "../assets/ts/tourny/match.ts",
+    "dependencies": [
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "oz1i8h7l5",
+      "5zqhrcz9u",
+      "a1i0rclz1",
+      "d4o30flja",
+      "ie0we1xqr",
+      "b45frrcel",
+      "nq61n6rlm",
+      "3eft572ib",
+      "horn4urrg",
+      "eiwzqwcz1"
+    ]
+  },
+  "oz1i8h7l5": {
+    "id": "oz1i8h7l5",
+    "fileName": "participant.ts",
+    "filePath": "../assets/ts/tourny/participant.ts",
+    "dependencies": [
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "5zqhrcz9u",
+      "sk2n4kdsa",
+      "b45frrcel",
+      "t6sp78um8",
+      "eiwzqwcz1"
+    ]
+  },
+  "95gq5k3s0": {
+    "id": "95gq5k3s0",
+    "fileName": "payment_settings.ts",
+    "filePath": "../assets/ts/tourny/payment_settings.ts",
+    "dependencies": []
+  },
+  "nzepqmbe9": {
+    "id": "nzepqmbe9",
+    "fileName": "rankings.ts",
+    "filePath": "../assets/ts/tourny/rankings.ts",
+    "dependencies": [
+      "dzmuzdrjn"
+    ]
+  },
+  "qypqzk7n5": {
+    "id": "qypqzk7n5",
+    "fileName": "round.ts",
+    "filePath": "../assets/ts/tourny/round.ts",
+    "dependencies": [
+      "dzmuzdrjn",
+      "5b5pfyddk",
+      "nq61n6rlm",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "n10oym9sp",
+      "5zqhrcz9u",
+      "eiwzqwcz1"
+    ]
+  },
+  "euup3ub2u": {
+    "id": "euup3ub2u",
+    "fileName": "sop_rankings.ts",
+    "filePath": "../assets/ts/tourny/sop_rankings.ts",
+    "dependencies": [
+      "5zqhrcz9u",
+      "brw0z4iuj",
+      "oz1i8h7l5",
+      "dzmuzdrjn",
+      "nq61n6rlm",
+      "a1i0rclz1"
+    ]
+  },
+  "jgle5fdwe": {
+    "id": "jgle5fdwe",
+    "fileName": "swiss_round.ts",
+    "filePath": "../assets/ts/tourny/swiss_round.ts",
+    "dependencies": [
+      "5b5pfyddk",
+      "qypqzk7n5",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "dzmuzdrjn",
+      "n10oym9sp",
+      "eiwzqwcz1"
+    ]
+  },
+  "jz08h7iyt": {
+    "id": "jz08h7iyt",
+    "fileName": "table.ts",
+    "filePath": "../assets/ts/tourny/table.ts",
+    "dependencies": [
+      "oz1i8h7l5",
+      "brw0z4iuj",
+      "eiwzqwcz1"
+    ]
+  },
+  "b45frrcel": {
+    "id": "b45frrcel",
+    "fileName": "team.ts",
+    "filePath": "../assets/ts/tourny/team.ts",
+    "dependencies": [
+      "oz1i8h7l5",
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "eiwzqwcz1"
+    ]
+  },
+  "nq61n6rlm": {
+    "id": "nq61n6rlm",
+    "fileName": "team_match.ts",
+    "filePath": "../assets/ts/tourny/team_match.ts",
+    "dependencies": [
+      "5b5pfyddk",
+      "5b5pfyddk",
+      "dzmuzdrjn",
+      "oz1i8h7l5",
+      "brw0z4iuj",
+      "b45frrcel",
+      "n55qk68ky",
+      "5zqhrcz9u"
+    ]
+  },
+  "5sepsqsv4": {
+    "id": "5sepsqsv4",
+    "fileName": "team_pairings.ts",
+    "filePath": "../assets/ts/tourny/team_pairings.ts",
+    "dependencies": [
+      "oz1i8h7l5"
+    ]
+  },
+  "brw0z4iuj": {
+    "id": "brw0z4iuj",
+    "fileName": "tourny.ts",
+    "filePath": "../assets/ts/tourny/tourny.ts",
+    "dependencies": [
+      "oz1i8h7l5",
+      "dzmuzdrjn",
+      "sxwfhgfz3",
+      "jz08h7iyt",
+      "5b5pfyddk",
+      "n55qk68ky",
+      "b45frrcel",
+      "nq61n6rlm",
+      "qypqzk7n5",
+      "jgle5fdwe",
+      "90o0i80pf",
+      "y82itpg7g",
+      "d4o30flja",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "5c10xmm9f",
+      "t6sp78um8",
+      "a1i0rclz1",
+      "nzepqmbe9",
+      "2us3rco3y",
+      "eiwzqwcz1"
+    ]
+  },
+  "8sk46cact": {
+    "id": "8sk46cact",
+    "fileName": "tourny_load.ts",
+    "filePath": "../assets/ts/tourny/tourny_load.ts",
+    "dependencies": [
+      "nq61n6rlm",
+      "5b5pfyddk",
+      "brw0z4iuj",
+      "p6vjzw1fb",
+      "xxw7rx1lv",
+      "n55qk68ky",
+      "3eft572ib",
+      "pl69b95lc"
+    ]
+  },
+  "jdko8qwlq": {
+    "id": "jdko8qwlq",
+    "fileName": "interfaces.ts",
+    "filePath": "../assets/ts/warhall/interfaces.ts",
+    "dependencies": [
+      "dkt42o24u"
+    ]
+  },
+  "dkt42o24u": {
+    "id": "dkt42o24u",
+    "fileName": "json_profile.ts",
+    "filePath": "../assets/ts/warhall/json_profile.ts",
+    "dependencies": [
+      "jdko8qwlq",
+      "4xznyftys",
+      "t2pezpil5",
+      "8oltqceky"
+    ]
+  },
+  "xwlb6y3n3": {
+    "id": "xwlb6y3n3",
+    "fileName": "warhall_util.ts",
+    "filePath": "../assets/ts/warhall/warhall_util.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "9tjxcedw2",
+      "jdko8qwlq"
+    ]
+  },
+  "msi9ed43a": {
+    "id": "msi9ed43a",
+    "fileName": "warhall_util_bs.ts",
+    "filePath": "../assets/ts/warhall/warhall_util_bs.ts",
+    "dependencies": [
+      "ie0we1xqr",
+      "xwlb6y3n3",
+      "tc4adj26r",
+      "nddltppbk",
+      "75d0vmjwa",
+      "jdko8qwlq",
+      "xumwas7qy",
+      "t6sp78um8",
+      "dkt42o24u",
+      "18a8t168g",
+      "horn4urrg",
+      "eiwzqwcz1"
+    ]
+  },
+  "e52p67v2k": {
+    "id": "e52p67v2k",
+    "fileName": "warhall_util_functions.ts",
+    "filePath": "../assets/ts/warhall/warhall_util_functions.ts",
+    "dependencies": [
+      "hgcwtlj7p",
+      "tc4adj26r",
+      "dkt42o24u",
+      "jdko8qwlq",
+      "f4ziihyqv",
+      "zg7up6nw8"
+    ]
+  },
+  "il1bv0tca": {
+    "id": "il1bv0tca",
+    "fileName": "warhall_util_kow.ts",
+    "filePath": "../assets/ts/warhall/warhall_util_kow.ts",
+    "dependencies": [
+      "msi9ed43a",
+      "ie0we1xqr",
+      "jdko8qwlq",
+      "t6sp78um8",
+      "tc4adj26r"
+    ]
+  },
+  "f4ziihyqv": {
+    "id": "f4ziihyqv",
+    "fileName": "warhall_util_t9a.ts",
+    "filePath": "../assets/ts/warhall/warhall_util_t9a.ts",
+    "dependencies": [
+      "xwlb6y3n3",
+      "ie0we1xqr",
+      "hgcwtlj7p",
+      "4unl34t7c",
+      "fc26huqni",
+      "t2pezpil5",
+      "jdko8qwlq",
+      "4xznyftys",
+      "rckr69s24",
+      "9tjxcedw2",
+      "dfgnk5s1w",
+      "dkt42o24u",
+      "jjfkmvcyu",
+      "eiwzqwcz1"
+    ]
+  },
+  "zg7up6nw8": {
+    "id": "zg7up6nw8",
+    "fileName": "warhall_util_wap.ts",
+    "filePath": "../assets/ts/warhall/warhall_util_wap.ts",
+    "dependencies": [
+      "msi9ed43a",
+      "ie0we1xqr",
+      "jdko8qwlq",
+      "tc4adj26r",
+      "t6sp78um8",
+      "e52p67v2k"
+    ]
+  },
+  "jcc6vqjk3": {
+    "id": "jcc6vqjk3",
+    "fileName": "messaging.ts",
+    "filePath": "../assets/ts/websocket/messaging.ts",
+    "dependencies": [
+      "5b5pfyddk",
+      "3eft572ib",
+      "nq61n6rlm",
+      "brw0z4iuj",
+      "8sk46cact",
+      "5zqhrcz9u",
+      "b45frrcel",
+      "oz1i8h7l5",
+      "dzmuzdrjn",
+      "ie0we1xqr"
+    ]
+  },
+  "8day3359u": {
+    "id": "8day3359u",
+    "fileName": "army_wiki.ts",
+    "filePath": "../assets/ts/wiki/army_wiki.ts",
+    "dependencies": [
+      "t6sp78um8",
+      "4xznyftys",
+      "t2pezpil5",
+      "d4o30flja",
+      "dxu92tvql",
+      "fc26huqni",
+      "jjfkmvcyu",
+      "hgcwtlj7p"
+    ]
+  },
+  "ik468qzc0": {
+    "id": "ik468qzc0",
+    "fileName": "bs_wiki.ts",
+    "filePath": "../assets/ts/wiki/bs_wiki.ts",
+    "dependencies": [
+      "nddltppbk",
+      "xumwas7qy",
+      "dxu92tvql",
+      "t6sp78um8",
+      "x2syfusar",
+      "liyn4odyt",
+      "zy8u54l0h",
+      "d4o30flja"
+    ]
+  },
+  "ntjvis0fv": {
+    "id": "ntjvis0fv",
+    "fileName": "sitemap.ts",
+    "filePath": "../assets/ts/wiki/sitemap.ts",
+    "dependencies": [
+      "d4o30flja",
+      "dxu92tvql",
+      "t6sp78um8",
+      "5zqhrcz9u",
+      "o0af2sr7j",
+      "eiwzqwcz1"
+    ]
+  },
+  "c098qpksy": {
+    "id": "c098qpksy",
+    "fileName": "wiki_gen.ts",
+    "filePath": "../assets/ts/wiki/wiki_gen.ts",
+    "dependencies": [
+      "dxu92tvql",
+      "t6sp78um8",
+      "ntjvis0fv",
+      "ik468qzc0",
+      "8day3359u",
+      "d4o30flja"
+    ]
+  },
+  "dxu92tvql": {
+    "id": "dxu92tvql",
+    "fileName": "wiki_helpers.ts",
+    "filePath": "../assets/ts/wiki/wiki_helpers.ts",
+    "dependencies": [
+      "xumwas7qy",
+      "4xznyftys",
+      "x2syfusar",
+      "fc26huqni",
+      "liyn4odyt",
+      "nddltppbk",
+      "d4o30flja"
+    ]
+  },
+  "gkcurj8qn": {
+    "id": "gkcurj8qn",
+    "fileName": "wiki_search.ts",
+    "filePath": "../assets/ts/wiki/wiki_search.ts",
+    "dependencies": [
+      "t6sp78um8",
+      "dxu92tvql"
+    ]
+  },
+  "k0mdvezi5": {
+    "id": "k0mdvezi5",
+    "fileName": "wiki_vue_helpers.ts",
+    "filePath": "../assets/ts/wiki/wiki_vue_helpers.ts",
+    "dependencies": [
+      "dxu92tvql",
+      "5zqhrcz9u",
+      "n55qk68ky",
+      "1te23rt7u",
+      "d4o30flja"
+    ]
+  },
+  "qzau14us5": {
+    "id": "qzau14us5",
+    "fileName": "BookIcon.vue",
+    "filePath": "../components/BookIcon.vue",
+    "dependencies": [
+      "d4o30flja"
+    ]
+  },
+  "wdnr8vsup": {
+    "id": "wdnr8vsup",
+    "fileName": "ButtonPopup.vue",
+    "filePath": "../components/ButtonPopup.vue",
+    "dependencies": [
+      "vmaalfhul"
+    ]
+  },
+  "63sed0evt": {
+    "id": "63sed0evt",
+    "fileName": "DateInput.vue",
+    "filePath": "../components/DateInput.vue",
+    "dependencies": [
+      "eiwzqwcz1"
+    ]
+  },
+  "bxbhgulrk": {
+    "id": "bxbhgulrk",
+    "fileName": "DiscordInput.vue",
+    "filePath": "../components/DiscordInput.vue",
+    "dependencies": [
+      "1m05r45xo",
+      "xxw7rx1lv"
+    ]
+  },
+  "pea86z6o7": {
+    "id": "pea86z6o7",
+    "fileName": "Dynamic.vue",
+    "filePath": "../components/Dynamic.vue",
+    "dependencies": []
+  },
+  "j0wumx3mp": {
+    "id": "j0wumx3mp",
+    "fileName": "ErrorIcon.vue",
+    "filePath": "../components/ErrorIcon.vue",
+    "dependencies": [
+      "t6sp78um8",
+      "8efx5vgcd",
+      "eiwzqwcz1"
+    ]
+  },
+  "xisf66gxe": {
+    "id": "xisf66gxe",
+    "fileName": "ErrorMessage.vue",
+    "filePath": "../components/ErrorMessage.vue",
+    "dependencies": []
+  },
+  "ms8pbuxeq": {
+    "id": "ms8pbuxeq",
+    "fileName": "ErrorWindow.vue",
+    "filePath": "../components/ErrorWindow.vue",
+    "dependencies": [
+      "xisf66gxe"
+    ]
+  },
+  "h6ilquqvt": {
+    "id": "h6ilquqvt",
+    "fileName": "FileInput.vue",
+    "filePath": "../components/FileInput.vue",
+    "dependencies": []
+  },
+  "o8fwypv25": {
+    "id": "o8fwypv25",
+    "fileName": "Icon.vue",
+    "filePath": "../components/Icon.vue",
+    "dependencies": []
+  },
+  "teb8kjpx0": {
+    "id": "teb8kjpx0",
+    "fileName": "InfoButton.vue",
+    "filePath": "../components/InfoButton.vue",
+    "dependencies": [
+      "vmaalfhul"
+    ]
+  },
+  "uqag0ytl0": {
+    "id": "uqag0ytl0",
+    "fileName": "InfoLabel.vue",
+    "filePath": "../components/InfoLabel.vue",
+    "dependencies": [
+      "teb8kjpx0"
+    ]
+  },
+  "178i02bvm": {
+    "id": "178i02bvm",
+    "fileName": "Ladder.vue",
+    "filePath": "../components/Ladder.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "q4uo5jtuj",
+      "d4o30flja",
+      "5zqhrcz9u",
+      "qzau14us5"
+    ]
+  },
+  "aj3nnvasb": {
+    "id": "aj3nnvasb",
+    "fileName": "LoginForm.vue",
+    "filePath": "../components/LoginForm.vue",
+    "dependencies": [
+      "xxw7rx1lv",
+      "eiwzqwcz1",
+      "n55qk68ky",
+      "0410do7uq"
+    ]
+  },
+  "g6z7zszpp": {
+    "id": "g6z7zszpp",
+    "fileName": "Menu.vue",
+    "filePath": "../components/Menu.vue",
+    "dependencies": [
+      "d4o30flja",
+      "gjcoaclwq",
+      "vmaalfhul",
+      "ur54k24mu"
+    ]
+  },
+  "52p9omb4y": {
+    "id": "52p9omb4y",
+    "fileName": "News.vue",
+    "filePath": "../components/News.vue",
+    "dependencies": [
+      "n55qk68ky"
+    ]
+  },
+  "yhjnbut4f": {
+    "id": "yhjnbut4f",
+    "fileName": "NumberInput.vue",
+    "filePath": "../components/NumberInput.vue",
+    "dependencies": []
+  },
+  "p677htw97": {
+    "id": "p677htw97",
+    "fileName": "OpenCloseButton.vue",
+    "filePath": "../components/OpenCloseButton.vue",
+    "dependencies": []
+  },
+  "vmaalfhul": {
+    "id": "vmaalfhul",
+    "fileName": "PopupDialog.vue",
+    "filePath": "../components/PopupDialog.vue",
+    "dependencies": [
+      "3175jyv2v"
+    ]
+  },
+  "1ca1fvrxi": {
+    "id": "1ca1fvrxi",
+    "fileName": "RichTextEditor.vue",
+    "filePath": "../components/RichTextEditor.vue",
+    "dependencies": [
+      "o8fwypv25"
+    ]
+  },
+  "gzthfda7x": {
+    "id": "gzthfda7x",
+    "fileName": "RuleFinder.vue",
+    "filePath": "../components/RuleFinder.vue",
+    "dependencies": [
+      "t2pezpil5"
+    ]
+  },
+  "vgu2fm6xy": {
+    "id": "vgu2fm6xy",
+    "fileName": "SelectFont.vue",
+    "filePath": "../components/SelectFont.vue",
+    "dependencies": []
+  },
+  "40nisgh5w": {
+    "id": "40nisgh5w",
+    "fileName": "SpellsView.vue",
+    "filePath": "../components/SpellsView.vue",
+    "dependencies": [
+      "ns8zzk7k6",
+      "dvixvdcb1",
+      "x9iuq4xz7",
+      "eiwzqwcz1"
+    ]
+  },
+  "nu7yyx86n": {
+    "id": "nu7yyx86n",
+    "fileName": "SubMenu.vue",
+    "filePath": "../components/SubMenu.vue",
+    "dependencies": []
+  },
+  "v1p923y03": {
+    "id": "v1p923y03",
+    "fileName": "SupportNewRecruit.vue",
+    "filePath": "../components/SupportNewRecruit.vue",
+    "dependencies": [
+      "vmaalfhul",
+      "b3akpegcp"
+    ]
+  },
+  "b3akpegcp": {
+    "id": "b3akpegcp",
+    "fileName": "SupportNewRecruitContent.vue",
+    "filePath": "../components/SupportNewRecruitContent.vue",
+    "dependencies": []
+  },
+  "ldwizx1zf": {
+    "id": "ldwizx1zf",
+    "fileName": "SupporterSettings.vue",
+    "filePath": "../components/SupporterSettings.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "n55qk68ky",
+      "5zqhrcz9u"
+    ]
+  },
+  "fry2iht4x": {
+    "id": "fry2iht4x",
+    "fileName": "TextExport.vue",
+    "filePath": "../components/TextExport.vue",
+    "dependencies": [
+      "ie0we1xqr"
+    ]
+  },
+  "385slevr1": {
+    "id": "385slevr1",
+    "fileName": "UnitEditor.vue",
+    "filePath": "../components/UnitEditor.vue",
+    "dependencies": [
+      "p3sko08pf",
+      "ie0we1xqr",
+      "8efx5vgcd",
+      "nhg6f59ia",
+      "nhg6f59ia",
+      "v1p923y03"
+    ]
+  },
+  "p3sko08pf": {
+    "id": "p3sko08pf",
+    "fileName": "UnitOption.vue",
+    "filePath": "../components/UnitOption.vue",
+    "dependencies": [
+      "eiwzqwcz1",
+      "ie0we1xqr",
+      "nhg6f59ia",
+      "tc4adj26r",
+      "jjfkmvcyu",
+      "j0wumx3mp",
+      "dfgnk5s1w",
+      "hgcwtlj7p",
+      "8efx5vgcd",
+      "xumwas7qy",
+      "ypqkgh9ds",
+      "e42seztjm",
+      "p677htw97",
+      "d4o30flja",
+      "uqag0ytl0",
+      "pea86z6o7"
+    ]
+  },
+  "okhqhvegx": {
+    "id": "okhqhvegx",
+    "fileName": "UnitRow.vue",
+    "filePath": "../components/UnitRow.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "hgcwtlj7p",
+      "j0wumx3mp",
+      "8efx5vgcd"
+    ]
+  },
+  "3x6ozc68w": {
+    "id": "3x6ozc68w",
+    "fileName": "Unity.vue",
+    "filePath": "../components/Unity.vue",
+    "dependencies": []
+  },
+  "dyxqbojhw": {
+    "id": "dyxqbojhw",
+    "fileName": "CreateSystem.vue",
+    "filePath": "../components/admin/CreateSystem.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "t6sp78um8",
+      "5zqhrcz9u",
+      "nhg6f59ia"
+    ]
+  },
+  "dwl3jhq60": {
+    "id": "dwl3jhq60",
+    "fileName": "MemberDetails.vue",
+    "filePath": "../components/admin/MemberDetails.vue",
+    "dependencies": []
+  },
+  "7dg7np9ev": {
+    "id": "7dg7np9ev",
+    "fileName": "CombatInput.vue",
+    "filePath": "../components/combat/CombatInput.vue",
+    "dependencies": [
+      "qo9ht0aw7",
+      "wt1kbawfh",
+      "385slevr1",
+      "nhg6f59ia",
+      "mhgsc8tbu",
+      "mhgsc8tbu",
+      "t2pezpil5",
+      "gzthfda7x"
+    ]
+  },
+  "a3zwofyyl": {
+    "id": "a3zwofyyl",
+    "fileName": "CombatLogEntry.vue",
+    "filePath": "../components/combat/CombatLogEntry.vue",
+    "dependencies": []
+  },
+  "bi7mox3kv": {
+    "id": "bi7mox3kv",
+    "fileName": "ArmySelect.vue",
+    "filePath": "../components/game/ArmySelect.vue",
+    "dependencies": [
+      "hx21xragl",
+      "5zqhrcz9u",
+      "ie0we1xqr",
+      "d4o30flja",
+      "o58u4dgkz"
+    ]
+  },
+  "ni25nc2lc": {
+    "id": "ni25nc2lc",
+    "fileName": "BattlePoints.vue",
+    "filePath": "../components/game/BattlePoints.vue",
+    "dependencies": [
+      "eiwzqwcz1",
+      "gn581br5z"
+    ]
+  },
+  "pf4hbc9xs": {
+    "id": "pf4hbc9xs",
+    "fileName": "Dice.vue",
+    "filePath": "../components/game/Dice.vue",
+    "dependencies": []
+  },
+  "3z35d7xgi": {
+    "id": "3z35d7xgi",
+    "fileName": "Flux.vue",
+    "filePath": "../components/game/Flux.vue",
+    "dependencies": [
+      "sk2n4kdsa",
+      "u10ijtzhe",
+      "pf4hbc9xs"
+    ]
+  },
+  "1lx3l9ddj": {
+    "id": "1lx3l9ddj",
+    "fileName": "GamePlayers.vue",
+    "filePath": "../components/game/GamePlayers.vue",
+    "dependencies": [
+      "867x7e57x",
+      "byor1jisd"
+    ]
+  },
+  "0qtn0tmi9": {
+    "id": "0qtn0tmi9",
+    "fileName": "GameSetup.vue",
+    "filePath": "../components/game/GameSetup.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "d4o30flja"
+    ]
+  },
+  "fiv16gypz": {
+    "id": "fiv16gypz",
+    "fileName": "MainMenu.vue",
+    "filePath": "../components/game/MainMenu.vue",
+    "dependencies": []
+  },
+  "5jnli28lk": {
+    "id": "5jnli28lk",
+    "fileName": "Objectives.vue",
+    "filePath": "../components/game/Objectives.vue",
+    "dependencies": []
+  },
+  "gn581br5z": {
+    "id": "gn581br5z",
+    "fileName": "ScoreRecap.vue",
+    "filePath": "../components/game/ScoreRecap.vue",
+    "dependencies": []
+  },
+  "0u0xyfh49": {
+    "id": "0u0xyfh49",
+    "fileName": "SpellSelection.vue",
+    "filePath": "../components/game/SpellSelection.vue",
+    "dependencies": [
+      "803t2monl",
+      "nhg6f59ia",
+      "3wdhwf9r9",
+      "9tjxcedw2",
+      "ns8zzk7k6",
+      "byor1jisd",
+      "3wdhwf9r9"
+    ]
+  },
+  "qo9ht0aw7": {
+    "id": "qo9ht0aw7",
+    "fileName": "UnitSelect.vue",
+    "filePath": "../components/game/UnitSelect.vue",
+    "dependencies": [
+      "bi7mox3kv"
+    ]
+  },
+  "0u21hdv98": {
+    "id": "0u21hdv98",
+    "fileName": "UserFinder.vue",
+    "filePath": "../components/game/UserFinder.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "5zqhrcz9u"
+    ]
+  },
+  "3175jyv2v": {
+    "id": "3175jyv2v",
+    "fileName": "teleport.ts",
+    "filePath": "../components/js/teleport.ts",
+    "dependencies": []
+  },
+  "kv1giqkcs": {
+    "id": "kv1giqkcs",
+    "fileName": "Book.vue",
+    "filePath": "../components/lists/Book.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "nhg6f59ia",
+      "bprl9t1mn",
+      "na35u4dli",
+      "prd6ejqt8",
+      "tc4adj26r",
+      "liyn4odyt",
+      "horn4urrg",
+      "75d0vmjwa"
+    ]
+  },
+  "bprl9t1mn": {
+    "id": "bprl9t1mn",
+    "fileName": "BookUnit.vue",
+    "filePath": "../components/lists/BookUnit.vue",
+    "dependencies": [
+      "h19w3u2gq",
+      "fc26huqni",
+      "ie0we1xqr",
+      "my9qyysxe",
+      "nhg6f59ia",
+      "p677htw97",
+      "ypqkgh9ds",
+      "vmaalfhul",
+      "aldmaneyj"
+    ]
+  },
+  "c8o2nf4mn": {
+    "id": "c8o2nf4mn",
+    "fileName": "BookUnitOption.vue",
+    "filePath": "../components/lists/BookUnitOption.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "fc26huqni",
+      "eiwzqwcz1"
+    ]
+  },
+  "ipfsa9jwo": {
+    "id": "ipfsa9jwo",
+    "fileName": "Books.vue",
+    "filePath": "../components/lists/Books.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "d4o30flja",
+      "5zqhrcz9u"
+    ]
+  },
+  "ypth5x6tk": {
+    "id": "ypth5x6tk",
+    "fileName": "BooksDate.vue",
+    "filePath": "../components/lists/BooksDate.vue",
+    "dependencies": [
+      "2us3rco3y",
+      "d4o30flja",
+      "5zqhrcz9u"
+    ]
+  },
+  "sukxnhcbo": {
+    "id": "sukxnhcbo",
+    "fileName": "Category.vue",
+    "filePath": "../components/lists/Category.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "nhg6f59ia",
+      "tc4adj26r",
+      "5zqhrcz9u",
+      "okhqhvegx",
+      "j0wumx3mp",
+      "d4o30flja",
+      "p3sko08pf",
+      "ypqkgh9ds",
+      "e42seztjm",
+      "t6sp78um8",
+      "8efx5vgcd"
+    ]
+  },
+  "hl84nqp38": {
+    "id": "hl84nqp38",
+    "fileName": "ClipboardImport.vue",
+    "filePath": "../components/lists/ClipboardImport.vue",
+    "dependencies": [
+      "rckr69s24",
+      "yhjnbut4f",
+      "eiwzqwcz1",
+      "5zqhrcz9u",
+      "d4o30flja",
+      "fc26huqni",
+      "kism5ossm",
+      "wywodk7lc"
+    ]
+  },
+  "mlsrd6kys": {
+    "id": "mlsrd6kys",
+    "fileName": "EditUnit.vue",
+    "filePath": "../components/lists/EditUnit.vue",
+    "dependencies": [
+      "4f9r5p23t",
+      "nhg6f59ia",
+      "v8579qc4g",
+      "385slevr1",
+      "wt1kbawfh",
+      "e42seztjm",
+      "rccdl7rmj",
+      "ej1dftwkw",
+      "ypqkgh9ds",
+      "ie0we1xqr",
+      "hgcwtlj7p",
+      "tc4adj26r",
+      "t2pezpil5",
+      "my9qyysxe",
+      "8sdfr5tyj",
+      "v1p923y03",
+      "d4o30flja",
+      "9tjxcedw2",
+      "x9iuq4xz7",
+      "xumwas7qy",
+      "a7clphkb9",
+      "8efx5vgcd"
+    ]
+  },
+  "67be0lqjq": {
+    "id": "67be0lqjq",
+    "fileName": "Export.vue",
+    "filePath": "../components/lists/Export.vue",
+    "dependencies": [
+      "fry2iht4x",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "ie0we1xqr",
+      "sk2n4kdsa",
+      "tc4adj26r",
+      "vmaalfhul"
+    ]
+  },
+  "prd6ejqt8": {
+    "id": "prd6ejqt8",
+    "fileName": "Force.vue",
+    "filePath": "../components/lists/Force.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "ie0we1xqr",
+      "ie0we1xqr",
+      "okhqhvegx",
+      "5zqhrcz9u",
+      "75d0vmjwa",
+      "c8o2nf4mn",
+      "sukxnhcbo",
+      "v8579qc4g",
+      "my9qyysxe",
+      "j0wumx3mp",
+      "v1p923y03",
+      "d4o30flja",
+      "tc4adj26r",
+      "liyn4odyt",
+      "nu7yyx86n",
+      "yfyrkwbvr",
+      "nddltppbk",
+      "zy8u54l0h",
+      "e42seztjm",
+      "ypqkgh9ds",
+      "h19w3u2gq",
+      "na35u4dli",
+      "horn4urrg",
+      "8efx5vgcd"
+    ]
+  },
+  "yfyrkwbvr": {
+    "id": "yfyrkwbvr",
+    "fileName": "ForceList.vue",
+    "filePath": "../components/lists/ForceList.vue",
+    "dependencies": [
+      "nddltppbk",
+      "vmaalfhul"
+    ]
+  },
+  "na35u4dli": {
+    "id": "na35u4dli",
+    "fileName": "ForceName.vue",
+    "filePath": "../components/lists/ForceName.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "tc4adj26r"
+    ]
+  },
+  "mzuhh653o": {
+    "id": "mzuhh653o",
+    "fileName": "ImportButton.vue",
+    "filePath": "../components/lists/ImportButton.vue",
+    "dependencies": [
+      "hl84nqp38",
+      "h6ilquqvt",
+      "h19w3u2gq",
+      "5zqhrcz9u",
+      "8efx5vgcd",
+      "rckr69s24",
+      "u5kutpy07",
+      "vmaalfhul"
+    ]
+  },
+  "w91niesow": {
+    "id": "w91niesow",
+    "fileName": "Indicator.vue",
+    "filePath": "../components/lists/Indicator.vue",
+    "dependencies": [
+      "5zqhrcz9u",
+      "rckr69s24"
+    ]
+  },
+  "k1ml6h3v2": {
+    "id": "k1ml6h3v2",
+    "fileName": "Indicators.vue",
+    "filePath": "../components/lists/Indicators.vue",
+    "dependencies": [
+      "w91niesow",
+      "5zqhrcz9u",
+      "fc26huqni",
+      "rckr69s24"
+    ]
+  },
+  "6xc3j5z46": {
+    "id": "6xc3j5z46",
+    "fileName": "ListsView.vue",
+    "filePath": "../components/lists/ListsView.vue",
+    "dependencies": [
+      "5zqhrcz9u",
+      "eiwzqwcz1",
+      "t6sp78um8",
+      "d4o30flja",
+      "ie0we1xqr",
+      "nhg6f59ia",
+      "8sdfr5tyj",
+      "qzau14us5"
+    ]
+  },
+  "v8579qc4g": {
+    "id": "v8579qc4g",
+    "fileName": "PresetList.vue",
+    "filePath": "../components/lists/PresetList.vue",
+    "dependencies": [
+      "8sdfr5tyj",
+      "my9qyysxe",
+      "vmaalfhul",
+      "eiwzqwcz1"
+    ]
+  },
+  "hpad98iqd": {
+    "id": "hpad98iqd",
+    "fileName": "TableList.vue",
+    "filePath": "../components/lists/TableList.vue",
+    "dependencies": [
+      "4f9r5p23t",
+      "k1ml6h3v2",
+      "prd6ejqt8",
+      "ipfsa9jwo",
+      "v8579qc4g",
+      "ie0we1xqr",
+      "nhg6f59ia",
+      "yhjnbut4f",
+      "kv1giqkcs",
+      "8sdfr5tyj",
+      "5zqhrcz9u",
+      "d4o30flja",
+      "vmaalfhul",
+      "j0wumx3mp",
+      "v1p923y03",
+      "my9qyysxe",
+      "75d0vmjwa"
+    ]
+  },
+  "4f9r5p23t": {
+    "id": "4f9r5p23t",
+    "fileName": "Warnings.vue",
+    "filePath": "../components/lists/Warnings.vue",
+    "dependencies": [
+      "xisf66gxe",
+      "8efx5vgcd"
+    ]
+  },
+  "s9d7g3hgw": {
+    "id": "s9d7g3hgw",
+    "fileName": "CardBody.vue",
+    "filePath": "../components/magic/CardBody.vue",
+    "dependencies": [
+      "pea86z6o7",
+      "cujos4jy7"
+    ]
+  },
+  "u10ijtzhe": {
+    "id": "u10ijtzhe",
+    "fileName": "FluxLine.vue",
+    "filePath": "../components/magic/FluxLine.vue",
+    "dependencies": []
+  },
+  "dvixvdcb1": {
+    "id": "dvixvdcb1",
+    "fileName": "LargeSpellCard.vue",
+    "filePath": "../components/magic/LargeSpellCard.vue",
+    "dependencies": []
+  },
+  "x9iuq4xz7": {
+    "id": "x9iuq4xz7",
+    "fileName": "SpellCard.vue",
+    "filePath": "../components/magic/SpellCard.vue",
+    "dependencies": [
+      "s9d7g3hgw"
+    ]
+  },
+  "dkcn813wd": {
+    "id": "dkcn813wd",
+    "fileName": "SpellCheckbox.vue",
+    "filePath": "../components/magic/SpellCheckbox.vue",
+    "dependencies": []
+  },
+  "803t2monl": {
+    "id": "803t2monl",
+    "fileName": "SpellLine.vue",
+    "filePath": "../components/magic/SpellLine.vue",
+    "dependencies": [
+      "x9iuq4xz7"
+    ]
+  },
+  "jserikjbw": {
+    "id": "jserikjbw",
+    "fileName": "Menu.vue",
+    "filePath": "../components/out/Menu.vue",
+    "dependencies": []
+  },
+  "e60ggoew9": {
+    "id": "e60ggoew9",
+    "fileName": "Node.vue",
+    "filePath": "../components/pairings_opti/Node.vue",
+    "dependencies": []
+  },
+  "rtq6hlohd": {
+    "id": "rtq6hlohd",
+    "fileName": "PaymentConfirmation.vue",
+    "filePath": "../components/payment/PaymentConfirmation.vue",
+    "dependencies": [
+      "5zqhrcz9u"
+    ]
+  },
+  "3mho33y4v": {
+    "id": "3mho33y4v",
+    "fileName": "MyReports.vue",
+    "filePath": "../components/profile/MyReports.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "xci0ct0nx",
+      "3eft572ib",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "bi7mox3kv",
+      "ie0we1xqr",
+      "d4o30flja",
+      "wywodk7lc"
+    ]
+  },
+  "7eazg3uum": {
+    "id": "7eazg3uum",
+    "fileName": "Report.vue",
+    "filePath": "../components/profile/Report.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "bi7mox3kv",
+      "gn581br5z"
+    ]
+  },
+  "xci0ct0nx": {
+    "id": "xci0ct0nx",
+    "fileName": "ReportView.vue",
+    "filePath": "../components/profile/ReportView.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "ie0we1xqr",
+      "d4o30flja",
+      "3eft572ib",
+      "lg4s3ktiv",
+      "nhg6f59ia",
+      "5zqhrcz9u",
+      "bi7mox3kv",
+      "pl69b95lc",
+      "rgwpy5t6b"
+    ]
+  },
+  "lg4s3ktiv": {
+    "id": "lg4s3ktiv",
+    "fileName": "ScoreInput.vue",
+    "filePath": "../components/profile/ScoreInput.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "d4o30flja",
+      "yhjnbut4f",
+      "5zqhrcz9u",
+      "a1i0rclz1",
+      "horn4urrg"
+    ]
+  },
+  "kwjp719oq": {
+    "id": "kwjp719oq",
+    "fileName": "BarChart.vue",
+    "filePath": "../components/stats/BarChart.vue",
+    "dependencies": [
+      "3eft572ib"
+    ]
+  },
+  "lkfputopl": {
+    "id": "lkfputopl",
+    "fileName": "Entry.vue",
+    "filePath": "../components/stats/Entry.vue",
+    "dependencies": [
+      "4rvnh3st7"
+    ]
+  },
+  "4rvnh3st7": {
+    "id": "4rvnh3st7",
+    "fileName": "Record.vue",
+    "filePath": "../components/stats/Record.vue",
+    "dependencies": []
+  },
+  "kse7s83wj": {
+    "id": "kse7s83wj",
+    "fileName": "StatsNoDetails.vue",
+    "filePath": "../components/stats/StatsNoDetails.vue",
+    "dependencies": [
+      "kwjp719oq",
+      "n55qk68ky",
+      "d4o30flja",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "3eft572ib",
+      "nhg6f59ia",
+      "eiwzqwcz1"
+    ]
+  },
+  "owck7ymj9": {
+    "id": "owck7ymj9",
+    "fileName": "StatsReport.vue",
+    "filePath": "../components/stats/StatsReport.vue",
+    "dependencies": [
+      "kwjp719oq",
+      "n55qk68ky",
+      "d4o30flja",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "3eft572ib",
+      "nhg6f59ia",
+      "xci0ct0nx",
+      "eiwzqwcz1"
+    ]
+  },
+  "hrmkmsppi": {
+    "id": "hrmkmsppi",
+    "fileName": "Repository.vue",
+    "filePath": "../components/systems/Repository.vue",
+    "dependencies": [
+      "jcxzq7fbi",
+      "t6sp78um8",
+      "5zqhrcz9u",
+      "eiwzqwcz1",
+      "nhg6f59ia",
+      "z8ntoiktb"
+    ]
+  },
+  "z8ntoiktb": {
+    "id": "z8ntoiktb",
+    "fileName": "RepositoryFiles.vue",
+    "filePath": "../components/systems/RepositoryFiles.vue",
+    "dependencies": [
+      "jcxzq7fbi",
+      "n55qk68ky",
+      "nhg6f59ia"
+    ]
+  },
+  "77qmt8z6m": {
+    "id": "77qmt8z6m",
+    "fileName": "RepositorySources.vue",
+    "filePath": "../components/systems/RepositorySources.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "jcxzq7fbi",
+      "t6sp78um8",
+      "5zqhrcz9u",
+      "hrmkmsppi"
+    ]
+  },
+  "zpccnvmkj": {
+    "id": "zpccnvmkj",
+    "fileName": "SelectInstalls.vue",
+    "filePath": "../components/systems/SelectInstalls.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "8sdfr5tyj",
+      "nof58w6ke",
+      "5zqhrcz9u",
+      "t6sp78um8",
+      "rckr69s24",
+      "d4o30flja"
+    ]
+  },
+  "ur54k24mu": {
+    "id": "ur54k24mu",
+    "fileName": "SystemsDropdown.vue",
+    "filePath": "../components/systems/SystemsDropdown.vue",
+    "dependencies": [
+      "nof58w6ke",
+      "rckr69s24",
+      "d4o30flja"
+    ]
+  },
+  "d9qu88im6": {
+    "id": "d9qu88im6",
+    "fileName": "Agenda.vue",
+    "filePath": "../components/tourny/Agenda.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "vmaalfhul",
+      "5zqhrcz9u",
+      "63sed0evt",
+      "kism5ossm",
+      "9qda3fx73",
+      "eiwzqwcz1",
+      "n55qk68ky",
+      "yhjnbut4f"
+    ]
+  },
+  "9qda3fx73": {
+    "id": "9qda3fx73",
+    "fileName": "AgendaView.vue",
+    "filePath": "../components/tourny/AgendaView.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "brw0z4iuj"
+    ]
+  },
+  "dmvc0kewh": {
+    "id": "dmvc0kewh",
+    "fileName": "AllGroups.vue",
+    "filePath": "../components/tourny/AllGroups.vue",
+    "dependencies": []
+  },
+  "9noiw3lj7": {
+    "id": "9noiw3lj7",
+    "fileName": "BonusPoints.vue",
+    "filePath": "../components/tourny/BonusPoints.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "0410do7uq",
+      "kh0s3bk5v"
+    ]
+  },
+  "m8l7zn6dm": {
+    "id": "m8l7zn6dm",
+    "fileName": "BookVersions.vue",
+    "filePath": "../components/tourny/BookVersions.vue",
+    "dependencies": [
+      "ypth5x6tk",
+      "n55qk68ky",
+      "brw0z4iuj",
+      "5zqhrcz9u"
+    ]
+  },
+  "3d2hj3ml0": {
+    "id": "3d2hj3ml0",
+    "fileName": "DiscordCom.vue",
+    "filePath": "../components/tourny/DiscordCom.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "brw0z4iuj",
+      "0410do7uq",
+      "kism5ossm",
+      "sk2n4kdsa",
+      "eiwzqwcz1",
+      "wdnr8vsup",
+      "nhg6f59ia"
+    ]
+  },
+  "bl9mpbkbl": {
+    "id": "bl9mpbkbl",
+    "fileName": "Dropouts.vue",
+    "filePath": "../components/tourny/Dropouts.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "ckbblewf2",
+      "n55qk68ky",
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "qypqzk7n5",
+      "teb8kjpx0"
+    ]
+  },
+  "hulbcalhg": {
+    "id": "hulbcalhg",
+    "fileName": "EditLeague.vue",
+    "filePath": "../components/tourny/EditLeague.vue",
+    "dependencies": [
+      "opkcrs4xo"
+    ]
+  },
+  "36zwxv9lp": {
+    "id": "36zwxv9lp",
+    "fileName": "EditParticipants.vue",
+    "filePath": "../components/tourny/EditParticipants.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "bjeh6oyyy",
+      "oz1i8h7l5",
+      "b45frrcel",
+      "n55qk68ky",
+      "brw0z4iuj",
+      "dzmuzdrjn",
+      "5zqhrcz9u",
+      "1m05r45xo",
+      "p7v4fw11t",
+      "2vdmtlz1t",
+      "vmaalfhul",
+      "teb8kjpx0",
+      "wdnr8vsup",
+      "qj0ergxn6"
+    ]
+  },
+  "p6ws887ev": {
+    "id": "p6ws887ev",
+    "fileName": "EditTourny.vue",
+    "filePath": "../components/tourny/EditTourny.vue",
+    "dependencies": [
+      "63sed0evt",
+      "1ca1fvrxi",
+      "5zqhrcz9u",
+      "xxw7rx1lv",
+      "brw0z4iuj",
+      "d4o30flja",
+      "yhjnbut4f",
+      "0zbykfyi8"
+    ]
+  },
+  "vs8zfrnp5": {
+    "id": "vs8zfrnp5",
+    "fileName": "ExportButton.vue",
+    "filePath": "../components/tourny/ExportButton.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "brw0z4iuj",
+      "uqag0ytl0",
+      "yhjnbut4f",
+      "vmaalfhul"
+    ]
+  },
+  "b0l2bob99": {
+    "id": "b0l2bob99",
+    "fileName": "Groups.vue",
+    "filePath": "../components/tourny/Groups.vue",
+    "dependencies": [
+      "ckbblewf2",
+      "37iv5c5yj",
+      "sk2n4kdsa",
+      "brw0z4iuj",
+      "dzmuzdrjn",
+      "sxwfhgfz3"
+    ]
+  },
+  "0r6vh7bd6": {
+    "id": "0r6vh7bd6",
+    "fileName": "Leagues.vue",
+    "filePath": "../components/tourny/Leagues.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "d4o30flja",
+      "eiwzqwcz1"
+    ]
+  },
+  "xq2lkm373": {
+    "id": "xq2lkm373",
+    "fileName": "ListAddition.vue",
+    "filePath": "../components/tourny/ListAddition.vue",
+    "dependencies": [
+      "bi7mox3kv",
+      "vmaalfhul",
+      "rgwpy5t6b",
+      "zq4vk09ba",
+      "zq4vk09ba",
+      "kism5ossm",
+      "5zqhrcz9u",
+      "oz1i8h7l5",
+      "brw0z4iuj",
+      "omc0hllg3",
+      "yhjnbut4f",
+      "d4o30flja",
+      "o58u4dgkz",
+      "5c10xmm9f",
+      "horn4urrg"
+    ]
+  },
+  "rgwpy5t6b": {
+    "id": "rgwpy5t6b",
+    "fileName": "ListAdditionElement.vue",
+    "filePath": "../components/tourny/ListAdditionElement.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "ie0we1xqr",
+      "oz1i8h7l5",
+      "brw0z4iuj",
+      "5c10xmm9f",
+      "5zqhrcz9u",
+      "hpad98iqd",
+      "yhjnbut4f",
+      "kism5ossm",
+      "vmaalfhul"
+    ]
+  },
+  "6dptl34im": {
+    "id": "6dptl34im",
+    "fileName": "ManageLeague.vue",
+    "filePath": "../components/tourny/ManageLeague.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "opkcrs4xo",
+      "5zqhrcz9u",
+      "zq4vk09ba"
+    ]
+  },
+  "cajkf8k22": {
+    "id": "cajkf8k22",
+    "fileName": "ManageTourny.vue",
+    "filePath": "../components/tourny/ManageTourny.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "5gofreorz",
+      "vs8zfrnp5",
+      "46y059u9o",
+      "p6ws887ev",
+      "36zwxv9lp",
+      "0u21hdv98",
+      "lrho4bg60",
+      "b0l2bob99",
+      "kak9vlq5f",
+      "i91sc4e1k",
+      "ehu0eo7zo",
+      "m8l7zn6dm",
+      "sk2n4kdsa",
+      "n55qk68ky",
+      "brw0z4iuj",
+      "5zqhrcz9u",
+      "3d2hj3ml0",
+      "utgnpjkmh",
+      "vmaalfhul",
+      "teb8kjpx0",
+      "uqag0ytl0",
+      "9noiw3lj7",
+      "d9qu88im6"
+    ]
+  },
+  "59ihhpcu7": {
+    "id": "59ihhpcu7",
+    "fileName": "MatchListView.vue",
+    "filePath": "../components/tourny/MatchListView.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "dzmuzdrjn",
+      "5b5pfyddk",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "ckbblewf2",
+      "37iv5c5yj"
+    ]
+  },
+  "ckbblewf2": {
+    "id": "ckbblewf2",
+    "fileName": "MatchParticipant.vue",
+    "filePath": "../components/tourny/MatchParticipant.vue",
+    "dependencies": [
+      "5b5pfyddk",
+      "dzmuzdrjn",
+      "d4o30flja",
+      "5faiw4d9d",
+      "8sk46cact",
+      "brw0z4iuj"
+    ]
+  },
+  "37iv5c5yj": {
+    "id": "37iv5c5yj",
+    "fileName": "MatchPopup.vue",
+    "filePath": "../components/tourny/MatchPopup.vue",
+    "dependencies": [
+      "oz1i8h7l5",
+      "vmaalfhul"
+    ]
+  },
+  "3y9n0so7i": {
+    "id": "3y9n0so7i",
+    "fileName": "MyTeam.vue",
+    "filePath": "../components/tourny/MyTeam.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "30g8qtcz9",
+      "bjeh6oyyy",
+      "2vdmtlz1t",
+      "mlv9ykfap",
+      "n55qk68ky",
+      "sk2n4kdsa",
+      "oz1i8h7l5",
+      "b45frrcel",
+      "brw0z4iuj",
+      "5zqhrcz9u",
+      "eiwzqwcz1"
+    ]
+  },
+  "i91sc4e1k": {
+    "id": "i91sc4e1k",
+    "fileName": "OnlinePayment.vue",
+    "filePath": "../components/tourny/OnlinePayment.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "brw0z4iuj"
+    ]
+  },
+  "7eujlbmd8": {
+    "id": "7eujlbmd8",
+    "fileName": "Orga.vue",
+    "filePath": "../components/tourny/Orga.vue",
+    "dependencies": [
+      "p6ws887ev",
+      "hulbcalhg",
+      "cajkf8k22",
+      "6dptl34im",
+      "8sk46cact",
+      "n55qk68ky",
+      "brw0z4iuj",
+      "opkcrs4xo",
+      "d4o30flja",
+      "xxw7rx1lv"
+    ]
+  },
+  "bjeh6oyyy": {
+    "id": "bjeh6oyyy",
+    "fileName": "OrgaParticipant.vue",
+    "filePath": "../components/tourny/OrgaParticipant.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "n55qk68ky",
+      "zq4vk09ba",
+      "hpad98iqd",
+      "xq2lkm373",
+      "0u21hdv98",
+      "mlv9ykfap",
+      "b45frrcel",
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "oz1i8h7l5",
+      "2vdmtlz1t",
+      "wdnr8vsup",
+      "o58u4dgkz",
+      "1m05r45xo"
+    ]
+  },
+  "kak9vlq5f": {
+    "id": "kak9vlq5f",
+    "fileName": "PairingGroups.vue",
+    "filePath": "../components/tourny/PairingGroups.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "d97y8vdrv",
+      "n55qk68ky",
+      "yhjnbut4f",
+      "brw0z4iuj",
+      "dzmuzdrjn",
+      "5zqhrcz9u",
+      "1m05r45xo",
+      "vmaalfhul"
+    ]
+  },
+  "lrho4bg60": {
+    "id": "lrho4bg60",
+    "fileName": "Pairings.vue",
+    "filePath": "../components/tourny/Pairings.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "nhg6f59ia",
+      "0qtn0tmi9",
+      "2alluixpi",
+      "2n8zfn2e7",
+      "59ihhpcu7",
+      "bl9mpbkbl",
+      "yhjnbut4f",
+      "0410do7uq",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "5b5pfyddk",
+      "dzmuzdrjn",
+      "qypqzk7n5",
+      "teb8kjpx0",
+      "pl69b95lc"
+    ]
+  },
+  "2n8zfn2e7": {
+    "id": "2n8zfn2e7",
+    "fileName": "PairingsGameSetup.vue",
+    "filePath": "../components/tourny/PairingsGameSetup.vue",
+    "dependencies": [
+      "ie0we1xqr",
+      "yhjnbut4f",
+      "brw0z4iuj",
+      "nhg6f59ia",
+      "0qtn0tmi9",
+      "5b5pfyddk",
+      "n55qk68ky"
+    ]
+  },
+  "2alluixpi": {
+    "id": "2alluixpi",
+    "fileName": "PairingsLog.vue",
+    "filePath": "../components/tourny/PairingsLog.vue",
+    "dependencies": [
+      "nhg6f59ia"
+    ]
+  },
+  "30g8qtcz9": {
+    "id": "30g8qtcz9",
+    "fileName": "Participant.vue",
+    "filePath": "../components/tourny/Participant.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "h19w3u2gq",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "brw0z4iuj",
+      "5c10xmm9f",
+      "dzmuzdrjn",
+      "oz1i8h7l5",
+      "b45frrcel"
+    ]
+  },
+  "5faiw4d9d": {
+    "id": "5faiw4d9d",
+    "fileName": "ParticipantLogo.vue",
+    "filePath": "../components/tourny/ParticipantLogo.vue",
+    "dependencies": [
+      "oz1i8h7l5",
+      "qzau14us5"
+    ]
+  },
+  "jp39g4eob": {
+    "id": "jp39g4eob",
+    "fileName": "ParticipantOnlinePayment.vue",
+    "filePath": "../components/tourny/ParticipantOnlinePayment.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "oz1i8h7l5",
+      "brw0z4iuj",
+      "5zqhrcz9u"
+    ]
+  },
+  "sqz54ubeu": {
+    "id": "sqz54ubeu",
+    "fileName": "PlayerPage.vue",
+    "filePath": "../components/tourny/PlayerPage.vue",
+    "dependencies": [
+      "dzmuzdrjn",
+      "5b5pfyddk",
+      "nq61n6rlm",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "0410do7uq",
+      "30g8qtcz9",
+      "xq2lkm373"
+    ]
+  },
+  "p7v4fw11t": {
+    "id": "p7v4fw11t",
+    "fileName": "QuickValidation.vue",
+    "filePath": "../components/tourny/QuickValidation.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "dzmuzdrjn",
+      "brw0z4iuj"
+    ]
+  },
+  "5gofreorz": {
+    "id": "5gofreorz",
+    "fileName": "Rankings.vue",
+    "filePath": "../components/tourny/Rankings.vue",
+    "dependencies": [
+      "5faiw4d9d",
+      "brw0z4iuj",
+      "nzepqmbe9",
+      "0410do7uq",
+      "brw0z4iuj",
+      "dzmuzdrjn",
+      "euup3ub2u",
+      "horn4urrg",
+      "4prc1rt1z"
+    ]
+  },
+  "46y059u9o": {
+    "id": "46y059u9o",
+    "fileName": "RoundGeneration.vue",
+    "filePath": "../components/tourny/RoundGeneration.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "yhjnbut4f"
+    ]
+  },
+  "d97y8vdrv": {
+    "id": "d97y8vdrv",
+    "fileName": "RoundInput.vue",
+    "filePath": "../components/tourny/RoundInput.vue",
+    "dependencies": []
+  },
+  "ehu0eo7zo": {
+    "id": "ehu0eo7zo",
+    "fileName": "Scoring.vue",
+    "filePath": "../components/tourny/Scoring.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "a1i0rclz1",
+      "brw0z4iuj"
+    ]
+  },
+  "qk9upt2sh": {
+    "id": "qk9upt2sh",
+    "fileName": "SubscribeNotifications.vue",
+    "filePath": "../components/tourny/SubscribeNotifications.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "n55qk68ky",
+      "5zqhrcz9u"
+    ]
+  },
+  "lpea1h2im": {
+    "id": "lpea1h2im",
+    "fileName": "TeamPairings.vue",
+    "filePath": "../components/tourny/TeamPairings.vue",
+    "dependencies": [
+      "ckbblewf2",
+      "37iv5c5yj",
+      "n55qk68ky",
+      "nq61n6rlm",
+      "b45frrcel",
+      "oz1i8h7l5",
+      "5b5pfyddk"
+    ]
+  },
+  "mlv9ykfap": {
+    "id": "mlv9ykfap",
+    "fileName": "TeamPassword.vue",
+    "filePath": "../components/tourny/TeamPassword.vue",
+    "dependencies": [
+      "b45frrcel",
+      "brw0z4iuj",
+      "n55qk68ky"
+    ]
+  },
+  "utgnpjkmh": {
+    "id": "utgnpjkmh",
+    "fileName": "TextExportButton.vue",
+    "filePath": "../components/tourny/TextExportButton.vue",
+    "dependencies": [
+      "brw0z4iuj"
+    ]
+  },
+  "snntch6lh": {
+    "id": "snntch6lh",
+    "fileName": "TournamentConnectionStatus.vue",
+    "filePath": "../components/tourny/TournamentConnectionStatus.vue",
+    "dependencies": []
+  },
+  "bkpkki08d": {
+    "id": "bkpkki08d",
+    "fileName": "TournamentLog.vue",
+    "filePath": "../components/tourny/TournamentLog.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "eiwzqwcz1",
+      "2alluixpi",
+      "nhg6f59ia"
+    ]
+  },
+  "2vdmtlz1t": {
+    "id": "2vdmtlz1t",
+    "fileName": "AddPlayer.vue",
+    "filePath": "../components/tourny/components/AddPlayer.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "oz1i8h7l5",
+      "b45frrcel",
+      "brw0z4iuj",
+      "5zqhrcz9u",
+      "0u21hdv98",
+      "vmaalfhul"
+    ]
+  },
+  "qj0ergxn6": {
+    "id": "qj0ergxn6",
+    "fileName": "ParticipantNameWithTeam.vue",
+    "filePath": "../components/tourny/components/ParticipantNameWithTeam.vue",
+    "dependencies": [
+      "oz1i8h7l5",
+      "brw0z4iuj"
+    ]
+  },
+  "4prc1rt1z": {
+    "id": "4prc1rt1z",
+    "fileName": "RankingTable.vue",
+    "filePath": "../components/tourny/components/RankingTable.vue",
+    "dependencies": [
+      "horn4urrg",
+      "nzepqmbe9",
+      "euup3ub2u",
+      "brw0z4iuj",
+      "5faiw4d9d"
+    ]
+  },
+  "0zbykfyi8": {
+    "id": "0zbykfyi8",
+    "fileName": "TournamentLogoInput.vue",
+    "filePath": "../components/tourny/components/TournamentLogoInput.vue",
+    "dependencies": [
+      "h6ilquqvt",
+      "n55qk68ky",
+      "brw0z4iuj",
+      "h6ilquqvt"
+    ]
+  },
+  "z5x076ofc": {
+    "id": "z5x076ofc",
+    "fileName": "Match.vue",
+    "filePath": "../components/tourny/tournydetails/Match.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "ckbblewf2",
+      "lpea1h2im",
+      "30g8qtcz9",
+      "xci0ct0nx",
+      "dzmuzdrjn",
+      "n55qk68ky",
+      "5b5pfyddk",
+      "brw0z4iuj",
+      "oz1i8h7l5",
+      "qypqzk7n5",
+      "0410do7uq",
+      "rgwpy5t6b"
+    ]
+  },
+  "1tnlk39rb": {
+    "id": "1tnlk39rb",
+    "fileName": "Menu.vue",
+    "filePath": "../components/tourny/tournydetails/Menu.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "b6qgxks0f",
+      "oz1i8h7l5",
+      "dzmuzdrjn"
+    ]
+  },
+  "b05yfi2en": {
+    "id": "b05yfi2en",
+    "fileName": "MyTourny.vue",
+    "filePath": "../components/tourny/tournydetails/MyTourny.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "sqz54ubeu",
+      "3y9n0so7i",
+      "oz1i8h7l5",
+      "jp39g4eob",
+      "dzmuzdrjn"
+    ]
+  },
+  "swwqfsalv": {
+    "id": "swwqfsalv",
+    "fileName": "ParticipantDetails.vue",
+    "filePath": "../components/tourny/tournydetails/ParticipantDetails.vue",
+    "dependencies": [
+      "dzmuzdrjn",
+      "brw0z4iuj",
+      "sqz54ubeu"
+    ]
+  },
+  "tqlizigxi": {
+    "id": "tqlizigxi",
+    "fileName": "Players.vue",
+    "filePath": "../components/tourny/tournydetails/Players.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "ckbblewf2",
+      "dzmuzdrjn",
+      "vs8zfrnp5"
+    ]
+  },
+  "xcrerzn0g": {
+    "id": "xcrerzn0g",
+    "fileName": "Signup.vue",
+    "filePath": "../components/tourny/tournydetails/Signup.vue",
+    "dependencies": [
+      "xxw7rx1lv",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "oz1i8h7l5",
+      "b45frrcel",
+      "brw0z4iuj",
+      "bxbhgulrk",
+      "aj3nnvasb"
+    ]
+  },
+  "hw28htigm": {
+    "id": "hw28htigm",
+    "fileName": "TournamentDetails.vue",
+    "filePath": "../components/tourny/tournydetails/TournamentDetails.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "eiwzqwcz1",
+      "oz1i8h7l5",
+      "brw0z4iuj",
+      "9qda3fx73"
+    ]
+  },
+  "i9q2mo9c0": {
+    "id": "i9q2mo9c0",
+    "fileName": "BsConditionGroup.vue",
+    "filePath": "../components/unitstats/BsConditionGroup.vue",
+    "dependencies": [
+      "x2syfusar"
+    ]
+  },
+  "2gp78q2jf": {
+    "id": "2gp78q2jf",
+    "fileName": "BsModifier.vue",
+    "filePath": "../components/unitstats/BsModifier.vue",
+    "dependencies": [
+      "x2syfusar",
+      "i9q2mo9c0",
+      "4gv18x6k5"
+    ]
+  },
+  "ypqkgh9ds": {
+    "id": "ypqkgh9ds",
+    "fileName": "BsProfileTables.vue",
+    "filePath": "../components/unitstats/BsProfileTables.vue",
+    "dependencies": [
+      "xumwas7qy",
+      "t6sp78um8",
+      "xumwas7qy",
+      "e42seztjm"
+    ]
+  },
+  "ej1dftwkw": {
+    "id": "ej1dftwkw",
+    "fileName": "BsProfiles.vue",
+    "filePath": "../components/unitstats/BsProfiles.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "xumwas7qy",
+      "t6sp78um8",
+      "tc4adj26r"
+    ]
+  },
+  "4gv18x6k5": {
+    "id": "4gv18x6k5",
+    "fileName": "BsRepeat.vue",
+    "filePath": "../components/unitstats/BsRepeat.vue",
+    "dependencies": [
+      "x2syfusar"
+    ]
+  },
+  "rccdl7rmj": {
+    "id": "rccdl7rmj",
+    "fileName": "BsRules.vue",
+    "filePath": "../components/unitstats/BsRules.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "xumwas7qy",
+      "tc4adj26r"
+    ]
+  },
+  "e42seztjm": {
+    "id": "e42seztjm",
+    "fileName": "BsRulesTable.vue",
+    "filePath": "../components/unitstats/BsRulesTable.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "xumwas7qy"
+    ]
+  },
+  "zt4tms8tn": {
+    "id": "zt4tms8tn",
+    "fileName": "CategoryList.vue",
+    "filePath": "../components/unitstats/CategoryList.vue",
+    "dependencies": []
+  },
+  "37x4cpk8b": {
+    "id": "37x4cpk8b",
+    "fileName": "RuleList.vue",
+    "filePath": "../components/unitstats/RuleList.vue",
+    "dependencies": [
+      "vmaalfhul",
+      "426lfh5p0",
+      "d4o30flja",
+      "8oltqceky",
+      "t2pezpil5"
+    ]
+  },
+  "x5khvkjfi": {
+    "id": "x5khvkjfi",
+    "fileName": "StatValue.vue",
+    "filePath": "../components/unitstats/StatValue.vue",
+    "dependencies": []
+  },
+  "a7clphkb9": {
+    "id": "a7clphkb9",
+    "fileName": "T9AProfile.vue",
+    "filePath": "../components/unitstats/T9AProfile.vue",
+    "dependencies": [
+      "hgcwtlj7p",
+      "wt1kbawfh",
+      "jjfkmvcyu",
+      "mhgsc8tbu",
+      "t2pezpil5",
+      "426lfh5p0"
+    ]
+  },
+  "426lfh5p0": {
+    "id": "426lfh5p0",
+    "fileName": "T9ARule.vue",
+    "filePath": "../components/unitstats/T9ARule.vue",
+    "dependencies": [
+      "pea86z6o7",
+      "gzthfda7x",
+      "t2pezpil5",
+      "t2pezpil5",
+      "v1p923y03"
+    ]
+  },
+  "aldmaneyj": {
+    "id": "aldmaneyj",
+    "fileName": "UnitProfiles.vue",
+    "filePath": "../components/unitstats/UnitProfiles.vue",
+    "dependencies": [
+      "d4o30flja",
+      "xumwas7qy",
+      "tc4adj26r",
+      "ie0we1xqr",
+      "ypqkgh9ds",
+      "a7clphkb9",
+      "hgcwtlj7p",
+      "rckr69s24",
+      "75d0vmjwa",
+      "v1p923y03",
+      "b3akpegcp"
+    ]
+  },
+  "wt1kbawfh": {
+    "id": "wt1kbawfh",
+    "fileName": "UnitStats.vue",
+    "filePath": "../components/unitstats/UnitStats.vue",
+    "dependencies": [
+      "eiwzqwcz1",
+      "8sdfr5tyj",
+      "d4o30flja",
+      "4xznyftys",
+      "t2pezpil5",
+      "8oltqceky",
+      "x5khvkjfi",
+      "37x4cpk8b",
+      "mhgsc8tbu"
+    ]
+  },
+  "kism5ossm": {
+    "id": "kism5ossm",
+    "fileName": "EditableDiv.vue",
+    "filePath": "../components/util/EditableDiv.vue",
+    "dependencies": []
+  },
+  "b6qgxks0f": {
+    "id": "b6qgxks0f",
+    "fileName": "IconsContainer.vue",
+    "filePath": "../components/util/IconsContainer.vue",
+    "dependencies": []
+  },
+  "1m05r45xo": {
+    "id": "1m05r45xo",
+    "fileName": "LoadImageButton.vue",
+    "filePath": "../components/util/LoadImageButton.vue",
+    "dependencies": []
+  },
+  "kh0s3bk5v": {
+    "id": "kh0s3bk5v",
+    "fileName": "TabContainer.vue",
+    "filePath": "../components/util/TabContainer.vue",
+    "dependencies": []
+  },
+  "v1ss69njt": {
+    "id": "v1ss69njt",
+    "fileName": "Breadcrumbs.vue",
+    "filePath": "../components/wiki/Breadcrumbs.vue",
+    "dependencies": [
+      "dxu92tvql"
+    ]
+  },
+  "qm8m9u7ch": {
+    "id": "qm8m9u7ch",
+    "fileName": "SearchBar.vue",
+    "filePath": "../components/wiki/SearchBar.vue",
+    "dependencies": [
+      "dxu92tvql"
+    ]
+  },
+  "7ky8n9ohl": {
+    "id": "7ky8n9ohl",
+    "fileName": "WikiData.vue",
+    "filePath": "../components/wiki/WikiData.vue",
+    "dependencies": [
+      "dxu92tvql"
+    ]
+  },
+  "6f6muvfvb": {
+    "id": "6f6muvfvb",
+    "fileName": "WikiOption.vue",
+    "filePath": "../components/wiki/WikiOption.vue",
+    "dependencies": [
+      "dxu92tvql"
+    ]
+  },
+  "ef3lokc0b": {
+    "id": "ef3lokc0b",
+    "fileName": "dependencies.d.ts",
+    "filePath": "../types/dependencies.d.ts",
+    "dependencies": []
+  },
+  "v2scok4i0": {
+    "id": "v2scok4i0",
+    "fileName": "global.d.ts",
+    "filePath": "../types/global.d.ts",
+    "dependencies": [
+      "tc4adj26r",
+      "jjfkmvcyu"
+    ]
+  },
+  "rudchrh9t": {
+    "id": "rudchrh9t",
+    "fileName": "vue-shim.d.ts",
+    "filePath": "../types/vue-shim.d.ts",
+    "dependencies": []
+  },
+  "krz71qykw": {
+    "id": "krz71qykw",
+    "fileName": "vue.d.ts",
+    "filePath": "../types/vue.d.ts",
+    "dependencies": []
+  },
+  "b0ma61qy6": {
+    "id": "b0ma61qy6",
+    "fileName": "vuex_store.d.ts",
+    "filePath": "../types/vuex_store.d.ts",
+    "dependencies": [
+      "75d0vmjwa",
+      "ie0we1xqr",
+      "d4o30flja",
+      "8efx5vgcd",
+      "mmoot59gg",
+      "867x7e57x",
+      "hgcwtlj7p",
+      "jcc6vqjk3"
+    ]
+  },
+  "suhxey02v": {
+    "id": "suhxey02v",
+    "fileName": "about.vue",
+    "filePath": "../pages/about.vue",
+    "dependencies": [
+      "jserikjbw"
+    ]
+  },
+  "i1pmaykkl": {
+    "id": "i1pmaykkl",
+    "fileName": "admin.vue",
+    "filePath": "../pages/admin.vue",
+    "dependencies": [
+      "1ca1fvrxi",
+      "jserikjbw",
+      "0u21hdv98",
+      "dwl3jhq60",
+      "nhg6f59ia",
+      "h6ilquqvt",
+      "1m05r45xo",
+      "77qmt8z6m",
+      "c4f69x33a",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "dyxqbojhw",
+      "eiwzqwcz1"
+    ]
+  },
+  "gjcoaclwq": {
+    "id": "gjcoaclwq",
+    "fileName": "AddList.vue",
+    "filePath": "../pages/app/AddList.vue",
+    "dependencies": [
+      "yhjnbut4f",
+      "h19w3u2gq",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "d4o30flja",
+      "u5kutpy07",
+      "t6sp78um8",
+      "h6ilquqvt",
+      "mzuhh653o",
+      "wywodk7lc"
+    ]
+  },
+  "ym0scjton": {
+    "id": "ym0scjton",
+    "fileName": "Contact.vue",
+    "filePath": "../pages/app/Contact.vue",
+    "dependencies": []
+  },
+  "xkm6r553b": {
+    "id": "xkm6r553b",
+    "fileName": "Lists.vue",
+    "filePath": "../pages/app/Lists.vue",
+    "dependencies": [
+      "hpad98iqd",
+      "52p9omb4y",
+      "n55qk68ky",
+      "8sdfr5tyj",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "o0af2sr7j",
+      "h19w3u2gq",
+      "sk2n4kdsa",
+      "mlsrd6kys",
+      "67be0lqjq",
+      "d4o30flja",
+      "mgwrmkl0l",
+      "8b55fawsn",
+      "nu7yyx86n",
+      "xwlb6y3n3",
+      "msi9ed43a",
+      "f4ziihyqv",
+      "zg7up6nw8",
+      "il1bv0tca",
+      "p677htw97",
+      "o58u4dgkz",
+      "nof58w6ke",
+      "vmaalfhul",
+      "aldmaneyj",
+      "ns8zzk7k6",
+      "9tjxcedw2",
+      "rckr69s24",
+      "40nisgh5w",
+      "ypth5x6tk"
+    ]
+  },
+  "pgwm7b8yf": {
+    "id": "pgwm7b8yf",
+    "fileName": "Login.vue",
+    "filePath": "../pages/app/Login.vue",
+    "dependencies": [
+      "gzthfda7x",
+      "aj3nnvasb",
+      "ldwizx1zf",
+      "n55qk68ky",
+      "o58u4dgkz",
+      "eiwzqwcz1",
+      "8usqr12v2",
+      "8usqr12v2",
+      "d4o30flja",
+      "vmaalfhul",
+      "0410do7uq"
+    ]
+  },
+  "ps5bhgmb4": {
+    "id": "ps5bhgmb4",
+    "fileName": "ManageGames.vue",
+    "filePath": "../pages/app/ManageGames.vue",
+    "dependencies": [
+      "zpccnvmkj"
+    ]
+  },
+  "6wd32vpkn": {
+    "id": "6wd32vpkn",
+    "fileName": "MyLists.vue",
+    "filePath": "../pages/app/MyLists.vue",
+    "dependencies": [
+      "6xc3j5z46",
+      "nhg6f59ia",
+      "5zqhrcz9u",
+      "h19w3u2gq",
+      "mzuhh653o",
+      "zpccnvmkj",
+      "ur54k24mu",
+      "o58u4dgkz",
+      "vmaalfhul",
+      "gjcoaclwq"
+    ]
+  },
+  "mgwrmkl0l": {
+    "id": "mgwrmkl0l",
+    "fileName": "MyModels.vue",
+    "filePath": "../pages/app/MyModels.vue",
+    "dependencies": [
+      "8sdfr5tyj",
+      "ie0we1xqr",
+      "t6sp78um8",
+      "8b55fawsn",
+      "d4o30flja",
+      "uqag0ytl0",
+      "vmaalfhul",
+      "v1p923y03",
+      "5zqhrcz9u",
+      "horn4urrg"
+    ]
+  },
+  "f8rqtrr86": {
+    "id": "f8rqtrr86",
+    "fileName": "Options.vue",
+    "filePath": "../pages/app/Options.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "sk2n4kdsa",
+      "bxbhgulrk",
+      "8sdfr5tyj",
+      "mmoot59gg",
+      "eiwzqwcz1",
+      "vgu2fm6xy",
+      "n55qk68ky",
+      "t6sp78um8"
+    ]
+  },
+  "6k40geha5": {
+    "id": "6k40geha5",
+    "fileName": "Paths.vue",
+    "filePath": "../pages/app/Paths.vue",
+    "dependencies": [
+      "x9iuq4xz7",
+      "dvixvdcb1",
+      "347cby29g",
+      "ns8zzk7k6",
+      "9tjxcedw2",
+      "d4o30flja",
+      "v1p923y03",
+      "40nisgh5w"
+    ]
+  },
+  "gmiu4badp": {
+    "id": "gmiu4badp",
+    "fileName": "Profile.vue",
+    "filePath": "../pages/app/Profile.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "lkfputopl",
+      "3mho33y4v",
+      "nhg6f59ia",
+      "xci0ct0nx",
+      "2e8g5pi69",
+      "d4o30flja",
+      "5zqhrcz9u",
+      "3eft572ib",
+      "eiwzqwcz1",
+      "owck7ymj9",
+      "xxw7rx1lv",
+      "5zqhrcz9u"
+    ]
+  },
+  "kztgd0ro2": {
+    "id": "kztgd0ro2",
+    "fileName": "Systems.vue",
+    "filePath": "../pages/app/Systems.vue",
+    "dependencies": []
+  },
+  "e2pms4brr": {
+    "id": "e2pms4brr",
+    "fileName": "TextList.vue",
+    "filePath": "../pages/app/TextList.vue",
+    "dependencies": [
+      "fry2iht4x",
+      "ie0we1xqr",
+      "5zqhrcz9u",
+      "ie0we1xqr",
+      "sk2n4kdsa",
+      "tc4adj26r"
+    ]
+  },
+  "yazlmc2sg": {
+    "id": "yazlmc2sg",
+    "fileName": "_system.vue",
+    "filePath": "../pages/app/_system.vue",
+    "dependencies": [
+      "nof58w6ke",
+      "p03igm8wb"
+    ]
+  },
+  "5e11yg7t9": {
+    "id": "5e11yg7t9",
+    "fileName": "combat.vue",
+    "filePath": "../pages/app/combat.vue",
+    "dependencies": [
+      "7dg7np9ev",
+      "qnm5k6pkd",
+      "nhg6f59ia",
+      "a3zwofyyl",
+      "0yaontkgy",
+      "d4o30flja",
+      "mhgsc8tbu",
+      "0yaontkgy",
+      "o58u4dgkz"
+    ]
+  },
+  "cesee7pnn": {
+    "id": "cesee7pnn",
+    "fileName": "dashboard.vue",
+    "filePath": "../pages/app/dashboard.vue",
+    "dependencies": []
+  },
+  "dq0e4u6ng": {
+    "id": "dq0e4u6ng",
+    "fileName": "donation.vue",
+    "filePath": "../pages/app/donation.vue",
+    "dependencies": [
+      "n55qk68ky"
+    ]
+  },
+  "gyyxq2cn8": {
+    "id": "gyyxq2cn8",
+    "fileName": "friend.vue",
+    "filePath": "../pages/app/friend.vue",
+    "dependencies": [
+      "pl69b95lc"
+    ]
+  },
+  "7fdkguwdi": {
+    "id": "7fdkguwdi",
+    "fileName": "Deployment.vue",
+    "filePath": "../pages/app/game/Deployment.vue",
+    "dependencies": [
+      "pf4hbc9xs",
+      "sk2n4kdsa",
+      "eiwzqwcz1",
+      "867x7e57x",
+      "ie0we1xqr"
+    ]
+  },
+  "ui1rkcz2k": {
+    "id": "ui1rkcz2k",
+    "fileName": "DeploymentPhase.vue",
+    "filePath": "../pages/app/game/DeploymentPhase.vue",
+    "dependencies": []
+  },
+  "yiwymi5j6": {
+    "id": "yiwymi5j6",
+    "fileName": "Intro.vue",
+    "filePath": "../pages/app/game/Intro.vue",
+    "dependencies": [
+      "bi7mox3kv",
+      "0u21hdv98",
+      "fry2iht4x",
+      "d4o30flja",
+      "867x7e57x",
+      "9tjxcedw2",
+      "5zqhrcz9u",
+      "byor1jisd",
+      "ie0we1xqr",
+      "nhg6f59ia",
+      "rckr69s24",
+      "hl84nqp38",
+      "8efx5vgcd",
+      "o58u4dgkz",
+      "vmaalfhul"
+    ]
+  },
+  "6nc7g7pzp": {
+    "id": "6nc7g7pzp",
+    "fileName": "Main.vue",
+    "filePath": "../pages/app/game/Main.vue",
+    "dependencies": [
+      "fiv16gypz",
+      "1lx3l9ddj",
+      "hpad98iqd",
+      "hgcwtlj7p",
+      "rckr69s24",
+      "9tjxcedw2",
+      "vmaalfhul",
+      "aldmaneyj"
+    ]
+  },
+  "rvp95t0zz": {
+    "id": "rvp95t0zz",
+    "fileName": "MainGame.vue",
+    "filePath": "../pages/app/game/MainGame.vue",
+    "dependencies": [
+      "fiv16gypz",
+      "gn581br5z",
+      "nhg6f59ia",
+      "5jnli28lk",
+      "867x7e57x",
+      "eiwzqwcz1",
+      "sk2n4kdsa",
+      "byor1jisd",
+      "rckr69s24"
+    ]
+  },
+  "c1u9ayjls": {
+    "id": "c1u9ayjls",
+    "fileName": "MainSpells.vue",
+    "filePath": "../pages/app/game/MainSpells.vue",
+    "dependencies": [
+      "803t2monl",
+      "nhg6f59ia",
+      "fiv16gypz",
+      "dkcn813wd",
+      "3z35d7xgi",
+      "1lx3l9ddj",
+      "867x7e57x",
+      "9tjxcedw2"
+    ]
+  },
+  "a94exey28": {
+    "id": "a94exey28",
+    "fileName": "Map.vue",
+    "filePath": "../pages/app/game/Map.vue",
+    "dependencies": [
+      "pf4hbc9xs",
+      "sk2n4kdsa",
+      "eiwzqwcz1",
+      "867x7e57x",
+      "ie0we1xqr"
+    ]
+  },
+  "d7zgm32lq": {
+    "id": "d7zgm32lq",
+    "fileName": "Objective.vue",
+    "filePath": "../pages/app/game/Objective.vue",
+    "dependencies": [
+      "5jnli28lk",
+      "pf4hbc9xs",
+      "sk2n4kdsa",
+      "eiwzqwcz1",
+      "867x7e57x",
+      "ie0we1xqr"
+    ]
+  },
+  "w76z7ripj": {
+    "id": "w76z7ripj",
+    "fileName": "SpecialDeployment.vue",
+    "filePath": "../pages/app/game/SpecialDeployment.vue",
+    "dependencies": []
+  },
+  "99sgwoclk": {
+    "id": "99sgwoclk",
+    "fileName": "Spells.vue",
+    "filePath": "../pages/app/game/Spells.vue",
+    "dependencies": [
+      "0u0xyfh49",
+      "3wdhwf9r9"
+    ]
+  },
+  "enr0l66pq": {
+    "id": "enr0l66pq",
+    "fileName": "Zones.vue",
+    "filePath": "../pages/app/game/Zones.vue",
+    "dependencies": [
+      "sk2n4kdsa"
+    ]
+  },
+  "g6chwk0n2": {
+    "id": "g6chwk0n2",
+    "fileName": "game.vue",
+    "filePath": "../pages/app/game.vue",
+    "dependencies": [
+      "867x7e57x",
+      "d4o30flja",
+      "nof58w6ke"
+    ]
+  },
+  "xgx7nssz8": {
+    "id": "xgx7nssz8",
+    "fileName": "leaguedetails.vue",
+    "filePath": "../pages/app/leaguedetails.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "opkcrs4xo",
+      "nhg6f59ia",
+      "178i02bvm",
+      "q4uo5jtuj",
+      "owck7ymj9",
+      "eiwzqwcz1"
+    ]
+  },
+  "k6gmpd17a": {
+    "id": "k6gmpd17a",
+    "fileName": "_id.vue",
+    "filePath": "../pages/app/list/_id.vue",
+    "dependencies": [
+      "hpad98iqd",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "h19w3u2gq",
+      "o0af2sr7j",
+      "p03igm8wb",
+      "nu7yyx86n",
+      "67be0lqjq"
+    ]
+  },
+  "hmtdcm08l": {
+    "id": "hmtdcm08l",
+    "fileName": "matchdetails.vue",
+    "filePath": "../pages/app/matchdetails.vue",
+    "dependencies": [
+      "nhg6f59ia",
+      "ckbblewf2",
+      "lpea1h2im",
+      "30g8qtcz9",
+      "xci0ct0nx",
+      "dzmuzdrjn",
+      "jcc6vqjk3",
+      "n55qk68ky",
+      "5b5pfyddk",
+      "brw0z4iuj",
+      "8sk46cact",
+      "oz1i8h7l5",
+      "qypqzk7n5",
+      "0410do7uq"
+    ]
+  },
+  "3fsgxjih4": {
+    "id": "3fsgxjih4",
+    "fileName": "pairingsopti.vue",
+    "filePath": "../pages/app/pairingsopti.vue",
+    "dependencies": [
+      "ecjfbgss5",
+      "e60ggoew9",
+      "n55qk68ky"
+    ]
+  },
+  "9pxmqf03t": {
+    "id": "9pxmqf03t",
+    "fileName": "payment.vue",
+    "filePath": "../pages/app/payment.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "hx21xragl",
+      "5zqhrcz9u",
+      "sk2n4kdsa",
+      "rtq6hlohd",
+      "oz1i8h7l5",
+      "b45frrcel"
+    ]
+  },
+  "9pp3zckyd": {
+    "id": "9pp3zckyd",
+    "fileName": "paymentConfirm.vue",
+    "filePath": "../pages/app/paymentConfirm.vue",
+    "dependencies": [
+      "rtq6hlohd",
+      "n55qk68ky",
+      "5zqhrcz9u"
+    ]
+  },
+  "bt9laff53": {
+    "id": "bt9laff53",
+    "fileName": "report.vue",
+    "filePath": "../pages/app/report.vue",
+    "dependencies": [
+      "d4o30flja",
+      "5b5pfyddk",
+      "3eft572ib",
+      "brw0z4iuj",
+      "5c10xmm9f",
+      "5zqhrcz9u",
+      "tmm6ecjqx",
+      "rgwpy5t6b",
+      "bi7mox3kv",
+      "fry2iht4x",
+      "nhg6f59ia",
+      "0u21hdv98",
+      "0qtn0tmi9",
+      "lg4s3ktiv",
+      "n55qk68ky",
+      "ie0we1xqr",
+      "oz1i8h7l5",
+      "867x7e57x",
+      "8sk46cact",
+      "o58u4dgkz",
+      "90o0i80pf",
+      "uqag0ytl0",
+      "wywodk7lc"
+    ]
+  },
+  "81v3xmnyq": {
+    "id": "81v3xmnyq",
+    "fileName": "_id.vue",
+    "filePath": "../pages/app/rule/_id.vue",
+    "dependencies": [
+      "426lfh5p0"
+    ]
+  },
+  "vjbb8bmxc": {
+    "id": "vjbb8bmxc",
+    "fileName": "spellexport.vue",
+    "filePath": "../pages/app/spellexport.vue",
+    "dependencies": [
+      "dvixvdcb1",
+      "x9iuq4xz7"
+    ]
+  },
+  "lbh8i8zvq": {
+    "id": "lbh8i8zvq",
+    "fileName": "stripe.vue",
+    "filePath": "../pages/app/stripe.vue",
+    "dependencies": [
+      "lbh8i8zvq",
+      "n55qk68ky",
+      "eiwzqwcz1"
+    ]
+  },
+  "1g7r0tdd7": {
+    "id": "1g7r0tdd7",
+    "fileName": "supporters.vue",
+    "filePath": "../pages/app/supporters.vue",
+    "dependencies": [
+      "nhg6f59ia"
+    ]
+  },
+  "lau6x2030": {
+    "id": "lau6x2030",
+    "fileName": "supportlevel.vue",
+    "filePath": "../pages/app/supportlevel.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "5zqhrcz9u"
+    ]
+  },
+  "if4iqfpej": {
+    "id": "if4iqfpej",
+    "fileName": "tourny.vue",
+    "filePath": "../pages/app/tourny.vue",
+    "dependencies": [
+      "7eujlbmd8",
+      "0r6vh7bd6",
+      "eiwzqwcz1",
+      "5zqhrcz9u",
+      "rckr69s24",
+      "d4o30flja",
+      "zq4vk09ba",
+      "n55qk68ky",
+      "8sdfr5tyj",
+      "jcc6vqjk3",
+      "xxw7rx1lv",
+      "kh0s3bk5v"
+    ]
+  },
+  "zorgyf5c3": {
+    "id": "zorgyf5c3",
+    "fileName": "_page.vue",
+    "filePath": "../pages/app/tournydetails/_page.vue",
+    "dependencies": [
+      "brw0z4iuj",
+      "5zqhrcz9u",
+      "8sk46cact",
+      "jcc6vqjk3",
+      "d4o30flja",
+      "1tnlk39rb",
+      "hw28htigm",
+      "tqlizigxi",
+      "swwqfsalv",
+      "lrho4bg60",
+      "5gofreorz",
+      "owck7ymj9",
+      "bkpkki08d",
+      "xcrerzn0g",
+      "oz1i8h7l5",
+      "n55qk68ky",
+      "5b5pfyddk",
+      "z5x076ofc",
+      "b05yfi2en"
+    ]
+  },
+  "05dx67iv8": {
+    "id": "05dx67iv8",
+    "fileName": "warhall.vue",
+    "filePath": "../pages/app/warhall.vue",
+    "dependencies": [
+      "3x6ozc68w"
+    ]
+  },
+  "638a0txbz": {
+    "id": "638a0txbz",
+    "fileName": "app.vue",
+    "filePath": "../pages/app.vue",
+    "dependencies": [
+      "g6z7zszpp",
+      "n55qk68ky",
+      "xxw7rx1lv",
+      "hx21xragl",
+      "8usqr12v2",
+      "8sdfr5tyj",
+      "d4o30flja"
+    ]
+  },
+  "5shdy4uwr": {
+    "id": "5shdy4uwr",
+    "fileName": "editor.vue",
+    "filePath": "../pages/editor.vue",
+    "dependencies": [
+      "jserikjbw"
+    ]
+  },
+  "ijqlcqj4b": {
+    "id": "ijqlcqj4b",
+    "fileName": "index.vue",
+    "filePath": "../pages/index.vue",
+    "dependencies": [
+      "jserikjbw",
+      "5zqhrcz9u"
+    ]
+  },
+  "11o6sv5z5": {
+    "id": "11o6sv5z5",
+    "fileName": "ladder.vue",
+    "filePath": "../pages/ladder.vue",
+    "dependencies": [
+      "n55qk68ky",
+      "jserikjbw",
+      "178i02bvm",
+      "rckr69s24",
+      "d4o30flja",
+      "1te23rt7u",
+      "5zqhrcz9u",
+      "xxw7rx1lv"
+    ]
+  },
+  "93seahq3c": {
+    "id": "93seahq3c",
+    "fileName": "news.vue",
+    "filePath": "../pages/news.vue",
+    "dependencies": [
+      "jserikjbw",
+      "n55qk68ky"
+    ]
+  },
+  "gxg4aopit": {
+    "id": "gxg4aopit",
+    "fileName": "stats.vue",
+    "filePath": "../pages/stats.vue",
+    "dependencies": [
+      "jserikjbw",
+      "kse7s83wj",
+      "n55qk68ky",
+      "5zqhrcz9u",
+      "d4o30flja",
+      "1te23rt7u",
+      "rckr69s24",
+      "xxw7rx1lv"
+    ]
+  },
+  "i69rpn3xz": {
+    "id": "i69rpn3xz",
+    "fileName": "troubleshotting.vue",
+    "filePath": "../pages/troubleshotting.vue",
+    "dependencies": [
+      "jserikjbw",
+      "8usqr12v2",
+      "n55qk68ky"
+    ]
+  },
+  "kblzhyja6": {
+    "id": "kblzhyja6",
+    "fileName": "_.vue",
+    "filePath": "../pages/wiki/_.vue",
+    "dependencies": [
+      "jserikjbw",
+      "dxu92tvql",
+      "ypqkgh9ds",
+      "v1ss69njt",
+      "6f6muvfvb",
+      "k0mdvezi5",
+      "2gp78q2jf",
+      "qm8m9u7ch",
+      "7ky8n9ohl"
+    ]
+  },
+  "88at5709r": {
+    "id": "88at5709r",
+    "fileName": "search.vue",
+    "filePath": "../pages/wiki/_repo/_system/search.vue",
+    "dependencies": [
+      "dxu92tvql",
+      "gkcurj8qn",
+      "jserikjbw",
+      "v1ss69njt",
+      "6f6muvfvb"
+    ]
+  },
+  "lmergq25h": {
+    "id": "lmergq25h",
+    "fileName": "index.vue",
+    "filePath": "../pages/wiki/index.vue",
+    "dependencies": [
+      "jserikjbw",
+      "dxu92tvql",
+      "v1ss69njt",
+      "6f6muvfvb",
+      "eiwzqwcz1",
+      "k0mdvezi5"
+    ]
+  },
+  "nhg6f59ia": {
+    "id": "nhg6f59ia",
+    "fileName": "CollapsibleBox.vue",
+    "filePath": "../shared_components/CollapsibleBox.vue",
+    "dependencies": []
+  },
+  "v5jdk86la": {
+    "id": "v5jdk86la",
+    "fileName": "DateInput.vue",
+    "filePath": "../shared_components/DateInput.vue",
+    "dependencies": [
+      "eiwzqwcz1"
+    ]
+  }
+}
